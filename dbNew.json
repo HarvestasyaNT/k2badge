@@ -1,0 +1,22 @@
+{
+    "DE": {
+        "shimushu1": {
+            "offset": {
+                "base":{
+                    "normal": {
+                        "x": 25,
+                        "y": 15
+                    },
+                    "damaged": {
+                        "x": -20,
+                        "y": 15
+                    }
+                }
+            },
+            "rarity": 4,
+            "base": true,
+            "name": "Shimushu",
+            "shipClass": "Shimushu"
+        }
+    }
+}

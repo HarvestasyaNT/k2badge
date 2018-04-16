@@ -1,0 +1,147 @@
+body {font-family: "Palatino Linotype"; display: flex; flex-direction: column;}
+html, body {height: 100%; margin: 0;}
+h1 {text-align: center;}
+span {display: inline-block;}
+p {max-width: 850px; margin: 10px auto; text-align: justify;}
+label {display: inline-block; min-width: 120px;}
+label.short {min-width: 60px;}
+input {width: 150px; margin: 0 10px 0 5px;}
+input[type="checkbox"] {width: 18px; height: 18px; margin: 0 5px; vertical-align: middle;}
+.hidden {display: none!important;}
+
+#wrapper {flex: 1 0 auto;}
+#footer {font-size: 10px; height: 20px; line-height: 20px;}
+#footer p {text-align: center; margin: 0 auto;}
+
+#language {position: absolute; top: 0; right: 5px;}
+
+#canvasDiv {width: 850px; margin: 20px auto;}
+#loadingDiv {margin-left: 0.5em;}
+
+#buttons {float: right; margin: 5px 0 20px;}
+#buttonToggles {display: inline-block; margin: 5px 0 20px;}
+
+.furnitureClass {height: 250px; padding: 0 5px; margin-bottom: 2em; overflow-y: scroll; font-size: 0.75em; width: 23.5%;}
+
+.shipOptions {padding-left: 1em; margin-bottom: 1em;}
+.shipOptions div {border-bottom: 1px dotted black;}
+.shipOptions div:first-child {border-top: 1px dotted black;}
+.shipOptions label {display: inline-block; padding: 0.5em 0;}
+
+#ttkInfo {margin-bottom: 0.5em;}
+#ttkInfo > div, #customInputs > div {line-height: 30px;}
+#customInputs label {min-width: 180px;}
+
+#fleetWrapper {vertical-align: top; position: absolute; display: inline-block; width: 11.5%; width: calc(0% + 175px);}
+
+.shipList > label {display: block; border: 1px solid black; margin-bottom: 5px; cursor: pointer; text-align: center;}
+.shipList img {width: 50px; height: 50px; border: 1px dashed gray; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; -ms-user-select: none; user-select: none;}
+.shipList img:hover {cursor: pointer; border: 1px dashed #CC0000;}
+.shipList span {display: inline-block; border: 1px solid black; background: white; width: 20px; text-align: center; margin-left: -15px; cursor: pointer; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; -ms-user-select: none; user-select: none;}
+#avatars {display: inline-block; width: 80%; width: calc(100% - 180px); margin-left: 11.5%; margin-left: calc(0% + 175px);}
+#avatars img.flagship, .shipList img.selected {border: 1px solid #CC0000;}
+#avatars .abyss {margin-bottom: 5px;}
+
+#flagTab {max-height: 390px; overflow-x: hidden; overflow-y: scroll;}
+#flagTab button {vertical-align: top;}
+#flagTab span.damaged {background: #CC0000; color: #FFFFFF;}
+
+#fleets, #fleetSelect {margin-bottom: 5px; text-select: none;}
+#fleets > div {cursor: pointer; width: 50px; height: 50px; border: 1px solid #999999; margin-bottom: 5px;}
+#fleets > div.chosen {border-color: #CC0000;}
+#fleets {width: 50px;}
+#fleetLevels {width: 100px;}
+#fleets, #fleetLevels {vertical-align: top; display: inline-block;}
+#fleetLevels > div {display: inline-block; line-height: 52px; margin-bottom: 5px;}
+#fleetLevels input {width: 40px;}
+
+.shipClasses > div {display: inline-block; margin-right: 20px; margin-bottom: 5px; vertical-align: top;}
+.shipClass, .furnitureClass {vertical-align: top; display: inline-block; margin-right: 0.5em;}
+.shipClass > h3, .furnitureClass > h3 {font-size: 16px; font-weight: 800; margin: 5px;}
+
+.blueprint {color: #9999FF;}
+
+#tabs { width: calc(100% - 20px) !important; margin: 0 10px;}
+
+.ui-tabs .ui-tabs-nav li {
+    width:16%;
+}
+.ui-tabs .ui-tabs-nav li a {
+    float: none;
+    text-decoration: none;
+    width: 90%;
+}
+
+#colleDiv .colleAll {width: 100%;}
+
+.export-container {position: fixed; width: 850px; height: 100%; padding: 25vh calc(50% - 425px) 0; background-color: rgba(255, 255, 255, 0.8); z-index: 999; text-align: center;}
+.export-container span {display: block; background-color: #FFF; padding: 10px 0px; border: 0px solid #000; border-width: 0 1px 1px;}
+.export-container span.close {position: absolute; right: calc(50% - 450px); top: 25vh; font-weight: bold; font-size: 70px; line-height: 0; transform: rotate(45deg) translateX(-35px); background-color: transparent; color: #C00; padding: 0; border: 0;}
+
+/*************************************** Rounded */
+.rounded > ul > li > a {-moz-border-radius: 8px 8px 0 0; border-radius: 8px 8px 0 0;}
+
+/**************************************** Borders */
+.borders ul {position: relative; top: 1px}
+.borders li a {border: 1px solid #999; border-bottom: 0}
+.borders div {border: 1px solid #999}
+
+/****************************************** Boxed */
+.boxed {padding: 2px; background: #ddd; border: 1px solid #666}
+.boxed ul {
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0, rgb(204,204,204)), color-stop(1, rgb(238,238,238)));
+	background: -moz-linear-gradient(center bottom, rgb(204,204,204) 0%, rgb(238,238,238) 100%);
+}
+
+button, #fleetSelect div, .button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf));
+	background:-moz-linear-gradient(top, #ededed 5%, #dfdfdf 100%);
+	background:-webkit-linear-gradient(top, #ededed 5%, #dfdfdf 100%);
+	background:-o-linear-gradient(top, #ededed 5%, #dfdfdf 100%);
+	background:-ms-linear-gradient(top, #ededed 5%, #dfdfdf 100%);
+	background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf',GradientType=0);
+	background-color:#ededed;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#777777;
+	font-family:Arial;
+	font-size:15px;
+	padding:8px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+button:focus, .button:focus, #fleetSelect div:focus {
+	outline: none;
+}
+#tabs button, .button, #fleetSelect div {
+	padding: 3px 9px;
+    font-size: 12px;
+}
+button:hover, .button:hover, #fleetSelect div.chosen {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed));
+	background:-moz-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+	background:-webkit-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+	background:-o-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+	background:-ms-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+	background:linear-gradient(to bottom, #dfdfdf 5%, #ededed 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed',GradientType=0);
+	background-color:#dfdfdf;
+}
+#fleetSelect div.chosen, .button.active {
+	font-weight: bold;
+	color: #C00;
+}
+button:active, button.active {
+	border-color: #009900;
+}
+.button {
+	margin: 5px 5px 0 0;
+}

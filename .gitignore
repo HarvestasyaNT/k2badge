@@ -1,2 +1,17 @@
 .project
-.vscode/launch.json
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules/
+package-lock.json
+
+# Optional npm cache directory
+.npm/
+npm-debug.log
+
+# VSCode
+.vscode/
+jsconfig.json

@@ -1,4 +1,4 @@
-import * as jQuery from './lib_components/jquery/dist/jquery.min';
+import $ from 'jquery';
 
 var lang = "en";
 var globalship = null;
@@ -254,7 +254,7 @@ $(document).ready(function() {
         }
         if (colleTemp) {
             colle = colleTemp;
-            $("#colleDiv img").removeClass("selected");
+            $("#colleTab  img").removeClass("selected");
             for (var i in colle) {
                 $("#kore" + i).addClass("selected");
             }
@@ -319,7 +319,7 @@ $(document).ready(function() {
                         }
                     }
                 } else {
-                    activeImg.load(function() {
+                    activeImg.on("load",  function() {
                             loadCount++;
                             if (loadCount == Object.keys(furnTemp).length) {
                                 $("#buttons button").prop("disabled", false);
@@ -408,7 +408,7 @@ $(document).ready(function() {
                     }
                 }
                 $("#avatars span").unbind("click").on("click", bindAvatars);
-                $('.tooltip2').tooltipster();
+                //$('.tooltip2').tooltipster();
             },
             error: function() {
                 $("#loadingDiv").html("Can't find Abyssal DB, please contact Harvestasya or Nya-chan on Github");
@@ -619,11 +619,11 @@ $(document).ready(function() {
         ctx.textAlign = "right";
         drawText((lang == "en" ? "DE" : "海"), row1, line1 + newLength - 9);
         var numDE = 0;
-        var maxDE = $("#colleDiv .divDE img.selected").length;
+        var maxDE = $("#colleTab  .divDE img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
 
-        $("#colleDiv .divDE img").each(function(i) {
+        $("#colleTab  .divDE img").each(function(i) {
 
             var x = row1box + numDE * hexRectangleWidth;
             var y = Math.floor(numDE / maxPerLine) * +linebarwidth / 2 + line1 - 15;
@@ -644,11 +644,11 @@ $(document).ready(function() {
         ctx.textAlign = "right";
         drawText((lang == "en" ? "DD" : "駆"), row2, line2 + newLength - 9);
         var numDD = 0;
-        var maxDD = $("#colleDiv .divDD img.selected").length;
+        var maxDD = $("#colleTab  .divDD img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
 
-        $("#colleDiv .divDD img").each(function(i) {
+        $("#colleTab  .divDD img").each(function(i) {
             var x = row2box + numDD % maxPerLine * hexRectangleWidth;
             if (Math.floor(numDD / maxPerLine % 2) > 0) {
                 x = row2box + (maxPerLine - numDD % maxPerLine) * hexRectangleWidth - hexRadius;
@@ -675,10 +675,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "CL" : "軽巡"), row1, line3 + newLength - 9);
         var numCL = 0;
-        var maxCL = $("#colleDiv .divCL img.selected").length;
+        var maxCL = $("#colleTab  .divCL img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divCL img").each(function() {
+        $("#colleTab  .divCL img").each(function() {
             var x = row1box + numCL * hexRectangleWidth;
             var y = line3 - 15;
             var img = document.getElementById(this.id);
@@ -693,11 +693,11 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "CA" : "重巡"), row2, line4 + newLength - 9);
         var numCA = 0;
-        var maxCA = $("#colleDiv .divCA img.selected").length;
+        var maxCA = $("#colleTab  .divCA img.selected").length;
         var blue = 0;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divCA img").each(function() {
+        $("#colleTab  .divCA img").each(function() {
             var x = row2box + numCA * hexRectangleWidth;
             var y = line4 - 15;
             var img = document.getElementById(this.id);
@@ -712,10 +712,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "CVL" : "軽母"), row2, line6 + newLength - 9);
         var numCVL = 0;
-        var maxCVL = $("#colleDiv .divCVL img.selected").length;
+        var maxCVL = $("#colleTab  .divCVL img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divCVL img").each(function() {
+        $("#colleTab  .divCVL img").each(function() {
             var x = row2box + numCVL * hexRectangleWidth;
             var y = line6 - 15;
             var img = document.getElementById(this.id);
@@ -730,10 +730,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "BB" : "戦"), row1, line5 + newLength - 9);
         var numBB = 0;
-        var maxBB = $("#colleDiv .divBB img.selected").length;
+        var maxBB = $("#colleTab  .divBB img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divBB img").each(function() {
+        $("#colleTab  .divBB img").each(function() {
             var x = row1box + numBB * hexRectangleWidth;
             var y = line5 - 15;
             var img = document.getElementById(this.id);
@@ -748,10 +748,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "CV" : "航"), row1, line7 + newLength - 9);
         var numCV = 0;
-        var maxCV = $("#colleDiv .divCV img.selected").length;
+        var maxCV = $("#colleTab  .divCV img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divCV img").each(function() {
+        $("#colleTab  .divCV img").each(function() {
             var x = row1box + numCV * hexRectangleWidth;
             var y = line7 - 15;
             var img = document.getElementById(this.id);
@@ -766,10 +766,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "SS" : "潜"), row2, line8 + newLength - 9);
         var numSS = 0;
-        var maxSS = $("#colleDiv .divSS img.selected").length;
+        var maxSS = $("#colleTab  .divSS img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divSS img").each(function() {
+        $("#colleTab  .divSS img").each(function() {
             var x = row2box + numSS * hexRectangleWidth;
             var y = line8 - 15;
             var img = document.getElementById(this.id);
@@ -784,10 +784,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "AX" : "他"), row1, line9 + newLength - 9);
         var numAX = 0;
-        var maxAX = $("#colleDiv .divAX img.selected").length;
+        var maxAX = $("#colleTab  .divAX img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divAX img").each(function() {
+        $("#colleTab  .divAX img").each(function() {
             var x = row1box + numAX * hexRectangleWidth;
             var y = line9 - 15;
             var img = document.getElementById(this.id);
@@ -801,7 +801,7 @@ $(document).ready(function() {
         ctx.restore();
 
         ctx.font = "12px " + textfont;
-        var shipBoxes = $("#colleDiv");
+        var shipBoxes = $("#colleTab ");
         var chkShips = shipBoxes.find("img.selected").length;
         var allShips = shipBoxes.find("img").length;
 
@@ -879,60 +879,6 @@ $(document).ready(function() {
         $("#loadingDiv").html("");
         $("#loadingProgress").hide();
         $("#buttons button").prop('disabled', false);
-    };
-
-    var drawText = function(text, posx, posy, width) {
-        ctx.save();
-        ctx.lineWidth = typeof width !== 'undefined' ? width : 2;
-        ctx.strokeText(text, posx, posy);
-        ctx.fillText(text, posx, posy);
-        ctx.restore();
-    };
-
-    var drawHexagon = function(img, x, y, checked, color) {
-        ctx.save();
-        ctx.beginPath();
-        ctx.moveTo(x + hexRadius, y);
-        ctx.lineTo(x + hexRectangleWidth, y + hexHeight);
-        ctx.lineTo(x + hexRectangleWidth, y + hexHeight + sideLength);
-        ctx.lineTo(x + hexRadius, y + hexRectangleHeight);
-        ctx.lineTo(x, y + sideLength + hexHeight);
-        ctx.lineTo(x, y + hexHeight);
-        ctx.closePath();
-        ctx.stroke();
-        ctx.fillStyle = color ? color : "white";
-        ctx.globalAlpha = $("#hexOpa").val() ? $("#hexOpa").val() : 0;
-        ctx.fill();
-        ctx.globalAlpha = 1;
-        ctx.clip();
-
-        if (img && checked) {
-            ctx.drawImage(img, x - centerx, y - centery, hexRectangleHeight * 5 / 4, hexRectangleHeight * 5 / 4);
-        }
-        ctx.restore();
-    }
-
-    var drawProgress = function(checked, total, offset) {
-        var progressrow = 530;
-        var progressrowbox = 540;
-        var ships = checked + "/" + total;
-        var shipPct = checked / total;
-        var barWidth = 300;
-        var grd = ctx.createLinearGradient(progressrowbox, 0, progressrowbox + barWidth, 0);
-
-        ctx.save();
-        ctx.strokeRect(progressrowbox, c.height - offset, barWidth, 8);
-
-        grd.addColorStop(0, "#A00000");
-        grd.addColorStop(0.33, "#FF9900");
-        grd.addColorStop(0.66, "#DDDD33");
-        grd.addColorStop(1, "#00A000");
-        ctx.fillStyle = grd;
-        ctx.fillRect(progressrowbox, c.height - offset, (barWidth * shipPct).toFixed(), 8);
-        ctx.restore();
-
-        ctx.font = "20px " + numberfont;
-        drawText(ships + " (" + (shipPct * 100).toFixed() + "%)", progressrowbox + barWidth, c.height - 20, 3);
     };
 
     var drawNewBadge = function() {
@@ -1356,13 +1302,13 @@ $(document).ready(function() {
                     $(".div" + ship.type).append('<div><label>' + ship.name.replace(new RegExp('_', 'g'), ' ') + '</label><div data-name="' + ship.name + '" class="' + ship.type + '"></div></div>');
                 }
                 if (ship.unique) {
-                    $("#colleDiv [data-name='" + ship.name + "']").append('<img title="' + ship.full + '"alt="full/FinalBoss.png" src="icons/' + ship.type + '/' + e + '.png" id="kore' + e + '"></img>').append(extraSpan);
+                    $("#colleTab  [data-name='" + ship.name + "']").append('<img title="' + ship.full + '"alt="full/FinalBoss.png" src="icons/' + ship.type + '/' + e + '.png" id="kore' + e + '"></img>').append(extraSpan);
                 }
                 $("#avatars [data-name='" + ship.name + "']").append(newDiv).append(extraSpan);
             }
         }
 
-        $("#colleDiv .shipClasses").each(function(i) {
+        $("#colleTab  .shipClasses").each(function(i) {
             var selectClass = $("<div class='colleAll'><input id='selectAll-" + i + "' type='checkbox'/><label for='selectAll-" + i + "'>" + (lang == "jp" ? "全て選択" : (lang == "cn" || lang == "tw") ? "全選" : "Select All") + "</label></div>");
             $(this).append(selectClass);
             selectClass.find("input").change(function() {
@@ -1376,7 +1322,7 @@ $(document).ready(function() {
             });
         });
 
-        $('.tooltip').tooltipster();
+        //$('.tooltip').tooltipster();
 
         $(".shipClasses").find("label").next("div").each(function() {
             if ($(this).find("img").length == 0) {
@@ -1431,7 +1377,7 @@ $(document).ready(function() {
             generateFunction("fleetShipChange");
         });
 
-        $("#colleDiv img").on("click", function() {
+        $("#colleTab  img").on("click", function() {
             if (colle[$(this).attr("id").substring(4)] && $(this).hasClass("selected")) {
                 delete colle[$(this).attr("id").substring(4)];
             } else if (!$(this).hasClass("selected")) {
@@ -1520,7 +1466,7 @@ $(document).ready(function() {
                 loading[type] = imgToLoad;
                 $("#buttons button").prop("disabled", true);
                 $("#loadingDiv").html("Rendering...");
-                activeImg.load(function() {
+                activeImg.on("load",  function() {
                         delete loading[type];
                         if ($.isEmptyObject(loading)) {
                             $("#buttons button").prop("disabled", false);
@@ -1560,7 +1506,7 @@ $(document).ready(function() {
                     drawRoom(132);
                 } else generateFunction("furnitureOutsideCache");
             } else {
-                activeOut.load(function() {
+                activeOut.on("load",  function() {
                     delete loading["Outside"];
                     if ($.isEmptyObject(loading)) {
                         $("#buttons button").prop("disabled", false);
@@ -1618,11 +1564,11 @@ $(document).ready(function() {
             $(".export-container").remove();
         });
 
-        $('#avatar').load(function() {
+        $('#avatar').on("load",  function() {
             if ($.isEmptyObject(loading)) generateFunction("avatarImgChange");
         });
 
-        $('#bg').load(function() {
+        $('#bg').on("load",  function() {
             if ($.isEmptyObject(loading)) generateFunction("bgImgChange");
         });
 
@@ -1700,12 +1646,3 @@ $(document).ready(function() {
 
 });
 
-$(window).load(function() {
-    $("#tabs").liteTabs({ "width": "100%" });
-    $("#tabs").show();
-
-    $(".furnitureClass.invert > div div").each(function() {
-        //Newest Furniture First
-        $(this).prependTo(this.parentNode);
-    });
-});
