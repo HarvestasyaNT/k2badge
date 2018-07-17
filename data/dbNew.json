@@ -1,0 +1,5059 @@
+{
+    "DE": {
+        "shimushu": {
+            "shimushu": {
+                "offset": {
+                    "x": -35,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": 15
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kunashiri": {
+                "offset": {
+                    "x": -30,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "etorofu": {
+            "etorofu": {
+                "offset": {
+                    "x": 50,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -90
+                },
+                "rarity": 4,
+                "seasons": ["ICE"],
+                "implicates": []
+            },
+            "etorofu-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": -90
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -90
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": ["etorofu"]
+            },
+            "matsuwa": {
+                "offset": {
+                    "x": -50,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -110
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "sado": {
+                "offset": {
+                    "x": -50,
+                    "y": -90
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -90
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "tsushima": {
+                "offset": {
+                    "x": -40,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -70
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "fukae": {
+                "offset": {
+                    "x": -60,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -120
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "hiburi": {
+            "hiburi": {
+                "offset": {
+                    "x": -40,
+                    "y": -100
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -100
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "daitou": {
+                "offset": {
+                    "x": -45,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": -70
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        }
+    },
+    "DD": {
+        "shimakaze": {
+            "shimakaze": {
+                "offset": {
+                    "x": 100,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -70
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "fubuki": {
+            "fubuki": {
+                "offset": {
+                    "x": -10,
+                    "y": -15
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": -15
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "fubuki-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": -60
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -60
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "shirayuki": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "hatsuyuki": {
+                "offset": {
+                    "x": -10,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": -20
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "miyuki": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "murakumo": {
+                "offset": {
+                    "x": 0,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -80
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "murakumo-kaini": {
+                "offset": {
+                    "x": 115,
+                    "y": -35
+                },
+                "offset2": {
+                    "x": 125,
+                    "y": -35
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "isonami": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "uranami1": {
+                "offset": {
+                    "x": -60,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -60,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "ayanami": {
+            "ayanami": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "ayanami-kaini": {
+                "offset": {
+                    "x": 50,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -25
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "shikinami": {
+                "offset": {
+                    "x": 0,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 25
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "oboro": {
+                "offset": {
+                    "x": 50,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -20
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "oboro-kai": {
+                "offset": {
+                    "x": -40,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "akebono": {
+                "offset": {
+                    "x": 20,
+                    "y": -75
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -75
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "akebono-kai": {
+                "offset": {
+                    "x": -40,
+                    "y": -90
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -50
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "sazanami": {
+                "offset": {
+                    "x": 20,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -25
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "sazanami-kai": {
+                "offset": {
+                    "x": -60,
+                    "y": -50
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -50
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "ushio": {
+                "offset": {
+                    "x": 0,
+                    "y": -50
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -50
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "ushio-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -95
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "sagiri": {
+                "offset": {
+                    "x": -30,
+                    "y": -50
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -70
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "amagiri": {
+                "offset": {
+                    "x": -70,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": -25,
+                    "y": -60
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "mutsuki": {
+            "mutsuki": {
+                "offset": {
+                    "x": 0,
+                    "y": -35
+                },
+                "offset2": {
+                    "x": -75,
+                    "y": -35
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "mutsuki-kaini": {
+                "offset": {
+                    "x": -20,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": -60
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "kisaragi": {
+                "offset": {
+                    "x": -20,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 10
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "kisaragi-kaini": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -55,
+                    "y": -25
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "satsuki": {
+                "offset": {
+                    "x": 50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 45,
+                    "y": -165
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "satsuki-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 100,
+                    "y": -50
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "fumizuki": {
+                "offset": {
+                    "x": 20,
+                    "y": -100
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": 0
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "fumizuki-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": 30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "nagatsuki": {
+                "offset": {
+                    "x": -50,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": -130
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "kikuzuki": {
+                "offset": {
+                    "x": 150,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -20
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "mikazuki": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -70
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "mochizuki": {
+                "offset": {
+                    "x": -30,
+                    "y": 5
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -20
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "yayoi": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -70
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "uzuki": {
+                "offset": {
+                    "x": 30,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": -30
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "uzuki-kai": {
+                "offset": {
+                    "x": 30,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -45
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "minazuki": {
+                "offset": {
+                    "x": -75,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "akatsuki": {
+            "akatsuki": {
+                "offset": {
+                    "x": -50,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -30
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "akatsuki-kaini": {
+                "offset": {
+                    "x": -20,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "hibiki": {
+                "offset": {
+                    "x": -45,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -20
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "verniy": {
+                "offset": {
+                    "x": -20,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": ["hibiki"]
+            },
+            "ikazuchi": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -50
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "inazuma": {
+                "offset": {
+                    "x": -50,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -20
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "hatsuharu": {
+            "hatsuharu": {
+                "offset": {
+                    "x": 50,
+                    "y": -55
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -55
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "hatsuharu-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": -90
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -90
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "nenohi": {
+                "offset": {
+                    "x": 100,
+                    "y": -135
+                },
+                "offset2": {
+                    "x": 100,
+                    "y": -135
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "wakaba": {
+                "offset": {
+                    "x": 0,
+                    "y": -95
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -50
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "hatsushimo": {
+                "offset": {
+                    "x": 0,
+                    "y": -50
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -50
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "hatsushimo-kaini": {
+                "offset": {
+                    "x": -5,
+                    "y": -50
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -110
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "shiratsuyu": {
+            "shiratsuyu": {
+                "offset": {
+                    "x": 0,
+                    "y": -75
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 20
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "shiratsuyu-kai": {
+                "offset": {
+                    "x": 50,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -80
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "shiratsuyu-kaini": {
+                "offset": {
+                    "x": -40,
+                    "y": -35
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -80
+                },
+                "rarity": 7,
+                "seasons": [],
+                "seasons": [],
+                "implicates": []
+            },
+            "shigure": {
+                "offset": {
+                    "x": 0,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -25
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "shigure-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -50
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "murasame": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "murasame-kai": {
+                "offset": {
+                    "x": -50,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -100
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "murasame-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 10
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "yuudachi": {
+                "offset": {
+                    "x": 25,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -20
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "yuudachi-kaini": {
+                "offset": {
+                    "x": -5,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -75
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "samidare": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 30
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "suzukaze": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 20
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "harusame": {
+                "offset": {
+                    "x": 10,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -95
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "harusame-kai": {
+                "offset": {
+                    "x": -40,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -100
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "umikaze": {
+                "offset": {
+                    "x": 70,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -50
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kawakaze": {
+                "offset": {
+                    "x": 70,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -80
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kawakaze-kaini": {
+                "offset": {
+                    "x": 125,
+                    "y": -50
+                },
+                "offset2": {
+                    "x": 25,
+                    "y": -30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "yamakaze": {
+                "offset": {
+                    "x": -40,
+                    "y": 5
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "asashio": {
+            "asashio": {
+                "offset": {
+                    "x": -70,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": -40
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "asashio-kaini": {
+                "offset": {
+                    "x": -70,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": -10
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "asashio-kainid": {
+                "offset": {
+                    "x": -70,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": -10
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "ooshio": {
+                "offset": {
+                    "x": -20,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 0
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "ooshio-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 5
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "michishio": {
+                "offset": {
+                    "x": 0,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 15
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "michishio-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": 0
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "arashio": {
+                "offset": {
+                    "x": 0,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 25
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "arashio-kaini": {
+                "offset": {
+                    "x": -70,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": -5
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "arare": {
+                "offset": {
+                    "x": 0,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -25
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "arare-kaini": {
+                "offset": {
+                    "x": -40,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -55
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "kasumi": {
+                "offset": {
+                    "x": 50,
+                    "y": -65
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -65
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "kasumi-kaini": {
+                "offset": {
+                    "x": -60,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -60,
+                    "y": 10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "kasumi-kainib": {
+                "offset": {
+                    "x": -60,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -60,
+                    "y": 10
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "asagumo": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": 10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "asagumo-kai": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": 10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "yamagumo": {
+                "offset": {
+                    "x": -20,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -40
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "yamagumo-kai": {
+                "offset": {
+                    "x": -20,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -40
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "kagerou": {
+            "kagerou": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "kagerou-kaini": {
+                "offset": {
+                    "x": -20,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -60,
+                    "y": -30
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "shiranui": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "shiranui-kaini": {
+                "offset": {
+                    "x": -80,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": -50
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "kuroshio": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "kuroshio-kaini": {
+                "offset": {
+                    "x": -20,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "hatsukaze": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "maikaze": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "akigumo": {
+                "offset": {
+                    "x": 10,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": -50
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "urakaze": {
+                "offset": {
+                    "x": -20,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": -60
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "urakaze-dkai": {
+                "offset": {
+                    "x": -5,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "tanikaze": {
+                "offset": {
+                    "x": -40,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "hamakaze": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "hamakaze-bkai": {
+                "offset": {
+                    "x": 35,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -90
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "isokaze": {
+                "offset": {
+                    "x": -25,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "isokaze-kai": {
+                "offset": {
+                    "x": -25,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "isokaze-bkai": {
+                "offset": {
+                    "x": 5,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": -20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "tokitsukaze": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": 10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "nowaki": {
+                "offset": {
+                    "x": -20,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 20
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "yukikaze": {
+                "offset": {
+                    "x": 0,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "amatsukaze": {
+                "offset": {
+                    "x": 10,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -5
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "amatsukaze-kai": {
+                "offset": {
+                    "x": 10,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -5
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "arashi": {
+                "offset": {
+                    "x": -50,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -20
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "hagikaze": {
+                "offset": {
+                    "x": -50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": 15
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "oyashio": {
+                "offset": {
+                    "x": -65,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -65,
+                    "y": 15
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "yuugumo": {
+            "yuugumo": {
+                "offset": {
+                    "x": -50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "yuugumo-kaini": {
+                "offset": {
+                    "x": -10,
+                    "y": -55
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -30
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "makigumo": {
+                "offset": {
+                    "x": -20,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kazagumo": {
+                "offset": {
+                    "x": -45,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -5
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "naganami": {
+                "offset": {
+                    "x": -40,
+                    "y": 5
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "naganami-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "hayashimo": {
+                "offset": {
+                    "x": 0,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -30
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kiyoshimo": {
+                "offset": {
+                    "x": -30,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "takanami": {
+                "offset": {
+                    "x": 75,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 10,
+                    "y": 5
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "takanami-kai": {
+                "offset": {
+                    "x": 30,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "asashimo": {
+                "offset": {
+                    "x": 10,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -45
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "asashimo-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -45
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "okinami": {
+                "offset": {
+                    "x": -50,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -30
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "fujinami": {
+                "offset": {
+                    "x": -50,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "hamanami": {
+                "offset": {
+                    "x": -50,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "type1934": {
+            "z1": {
+                "offset": {
+                    "x": -65,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": 10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "z1-zwei": {
+                "offset": {
+                    "x": -65,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": 10
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "z3": {
+                "offset": {
+                    "x": -65,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -65,
+                    "y": 20
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "z3-zwei": {
+                "offset": {
+                    "x": -65,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -65,
+                    "y": 20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "akizuki": {
+            "akizuki": {
+                "offset": {
+                    "x": -10,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": -10
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "teruzuki": {
+                "offset": {
+                    "x": -40,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "hatsuzuki": {
+                "offset": {
+                    "x": -20,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "suzutsuki": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -15
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "suzutsuki-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -15
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "maestrale": {
+            "libeccio": {
+                "offset": {
+                    "x": 0,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -40
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "kamikaze": {
+            "kamikaze": {
+                "offset": {
+                    "x": 0,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -40
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "harukaze": {
+                "offset": {
+                    "x": -25,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -5,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "asakaze": {
+                "offset": {
+                    "x": -30,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "matsukaze": {
+                "offset": {
+                    "x": 0,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -30
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "hatakaze": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -80,
+                    "y": -50
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "jclass": {
+            "jervis1": {
+                "offset": {
+                    "x": -40,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "jervis-kai": {
+                "offset": {
+                    "x": -40,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "tashkent": {
+            "tashkent": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "johncbutler": {
+            "samuelbroberts": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "samuelbroberts-kai": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -10
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        }
+    },
+    "CL": {
+        "tenryuu": {
+            "tenryuu": {
+                "offset": {
+                    "x": 100,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": 100,
+                    "y": -80
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "tenryuu-kaini": {
+                "offset": {
+                    "x": 70,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -70
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "tatsuta": {
+                "offset": {
+                    "x": -30,
+                    "y": -110
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -110
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "tatsuta-kaini": {
+                "offset": {
+                    "x": -105,
+                    "y": 45
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -25
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "kuma": {
+            "kuma": {
+                "offset": {
+                    "x": -40,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -30
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "tama": {
+                "offset": {
+                    "x": -40,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -20
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "tama-kaini": {
+                "offset": {
+                    "x": -55,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": -55,
+                    "y": -35
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kiso": {
+                "offset": {
+                    "x": -20,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -10
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "kiso-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 15
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "kitakami": {
+                "offset": {
+                    "x": -50,
+                    "y": -110
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -110
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kitakami-kai": {
+                "offset": {
+                    "x": -50,
+                    "y": -110
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -110
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": ["kitakami"]
+            },
+            "kitakami-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": -110
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -100
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": ["kitakami"]
+            },
+            "ooi": {
+                "offset": {
+                    "x": 10,
+                    "y": -85
+                },
+                "offset2": {
+                    "x": 10,
+                    "y": -85
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "ooi-kai": {
+                "offset": {
+                    "x": 10,
+                    "y": -85
+                },
+                "offset2": {
+                    "x": 10,
+                    "y": -85
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": ["ooi"]
+            },
+            "ooi-kaini": {
+                "offset": {
+                    "x": 10,
+                    "y": -85
+                },
+                "offset2": {
+                    "x": 10,
+                    "y": -85
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": ["ooi"]
+            }
+        },
+        "nagara": {
+            "nagara": {
+                "offset": {
+                    "x": -20,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 40
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "nagara-kai": {
+                "offset": {
+                    "x": -20,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": 40
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "isuzu": {
+                "offset": {
+                    "x": -30,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": 35
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "isuzu-kaini": {
+                "offset": {
+                    "x": 15,
+                    "y": 45
+                },
+                "offset2": {
+                    "x": 15,
+                    "y": 45
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "natori": {
+                "offset": {
+                    "x": 30,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": 0
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "natori-kai": {
+                "offset": {
+                    "x": 30,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": 46
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "yura": {
+                "offset": {
+                    "x": 0,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 30
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "yura-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "kinu": {
+                "offset": {
+                    "x": 50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kinu-kaini": {
+                "offset": {
+                    "x": 20,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": -100,
+                    "y": 25
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "abukuma": {
+                "offset": {
+                    "x": -50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "abukuma-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 25
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "sendai": {
+            "sendai": {
+                "offset": {
+                    "x": -30,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": 45,
+                    "y": -50
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "sendai-kaini": {
+                "offset": {
+                    "x": 10,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "jintsuu": {
+                "offset": {
+                    "x": 0,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "jintsuu-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": 70,
+                    "y": -20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "naka": {
+                "offset": {
+                    "x": 10,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -10
+                },
+                "rarity": 2,
+                "seasons": [],
+                "implicates": []
+            },
+            "naka-kaini": {
+                "offset": {
+                    "x": -65,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -35,
+                    "y": -30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "yuubari": {
+            "yuubari": {
+                "offset": {
+                    "x": 50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": 0
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "agano": {
+            "agano": {
+                "offset": {
+                    "x": 75,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 50
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "noshiro": {
+                "offset": {
+                    "x": 100,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": 50
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "yahagi": {
+                "offset": {
+                    "x": 70,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 70,
+                    "y": 50
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "sakawa": {
+                "offset": {
+                    "x": 0,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": 45
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "ooyodo": {
+            "ooyodo": {
+                "offset": {
+                    "x": -5,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -35,
+                    "y": 40
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "ooyodo-kai": {
+                "offset": {
+                    "x": 75,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": 65,
+                    "y": 35
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "katori": {
+            "katori": {
+                "offset": {
+                    "x": -40,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kashima": {
+                "offset": {
+                    "x": 20,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -30
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        }
+    },
+    "CA": {
+        "furutaka": {
+            "furutaka": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "furutaka-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": 55
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "kako": {
+                "offset": {
+                    "x": 40,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 40,
+                    "y": 10
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "kako-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -50
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "aoba": {
+            "aoba": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -20
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "kinugasa": {
+                "offset": {
+                    "x": -60,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 80,
+                    "y": 10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kinugasa-kaini": {
+                "offset": {
+                    "x": 60,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": 40,
+                    "y": 40
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "myoukou": {
+            "myoukou": {
+                "offset": {
+                    "x": 0,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "myoukou-kaini": {
+                "offset": {
+                    "x": 25,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": 70,
+                    "y": -20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "nachi": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -35
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "nachi-kaini": {
+                "offset": {
+                    "x": 5,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": 25,
+                    "y": 60
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "haguro": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "haguro-kaini": {
+                "offset": {
+                    "x": 30,
+                    "y": 45
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "ashigara": {
+                "offset": {
+                    "x": -50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "ashigara-kaini": {
+                "offset": {
+                    "x": 55,
+                    "y": 80
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 40
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "takao": {
+            "takao": {
+                "offset": {
+                    "x": -20,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "atago": {
+                "offset": {
+                    "x": -20,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "maya": {
+                "offset": {
+                    "x": -25,
+                    "y": -55
+                },
+                "offset2": {
+                    "x": -25,
+                    "y": -55
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "maya-kaini": {
+                "offset": {
+                    "x": 25,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": 25,
+                    "y": -10
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "choukai": {
+                "offset": {
+                    "x": -50,
+                    "y": -55
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -55
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "choukai-kaini": {
+                "offset": {
+                    "x": -30,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": -20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "tone": {
+            "tone": {
+                "offset": {
+                    "x": 0,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "tone-kaini": {
+                "offset": {
+                    "x": -70,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -10
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "chikuma": {
+                "offset": {
+                    "x": -50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "chikuma-kaini": {
+                "offset": {
+                    "x": -60,
+                    "y": 38
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -15
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "mogami": {
+            "mogami": {
+                "offset": {
+                    "x": 20,
+                    "y": -55
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -55
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "mogami-kai": {
+                "offset": {
+                    "x": 20,
+                    "y": -55
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -55
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "mikuma": {
+                "offset": {
+                    "x": -50,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -80
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "mikuma-kai": {
+                "offset": {
+                    "x": -45,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": -80
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "suzuya": {
+                "offset": {
+                    "x": 0,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "suzuya-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 20
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "suzuya-kaini": {
+                "offset": {
+                    "x": -40,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "kumano": {
+                "offset": {
+                    "x": -10,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": 25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kumano-kai": {
+                "offset": {
+                    "x": 50,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -150
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "kumano-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "admiralhipper": {
+            "prinzeugen": {
+                "offset": {
+                    "x": 50,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 60,
+                    "y": 30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "prinzeugen-kai": {
+                "offset": {
+                    "x": 60,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 60,
+                    "y": 30
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "zara": {
+            "zara": {
+                "offset": {
+                    "x": 25,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 25,
+                    "y": -20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "zara-due": {
+                "offset": {
+                    "x": -25,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "pola": {
+                "offset": {
+                    "x": 25,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -70
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        }
+    },
+    "BB": {
+        "nagato": {
+            "nagato": {
+                "offset": {
+                    "x": 75,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 75,
+                    "y": 0
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "nagato-kaini": {
+                "offset": {
+                    "x": 75,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -20
+                },
+                "rarity": 8,
+                "seasons": [],
+                "implicates": []
+            },
+            "mutsu": {
+                "offset": {
+                    "x": 75,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 75,
+                    "y": -30
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": [],
+                "full": "Mutsu",
+                "name": "Nagato"
+            }
+        },
+        "kongou": {
+            "kongou": {
+                "offset": {
+                    "x": 40,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 100,
+                    "y": -50
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "kongou-kaini": {
+                "offset": {
+                    "x": 80,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 80,
+                    "y": -5
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "hiei": {
+                "offset": {
+                    "x": 50,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": 10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "hiei-kaini": {
+                "offset": {
+                    "x": -30,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -10
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "haruna": {
+                "offset": {
+                    "x": 45,
+                    "y": -45
+                },
+                "offset2": {
+                    "x": 45,
+                    "y": -45
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "haruna-kaini": {
+                "offset": {
+                    "x": 60,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 90,
+                    "y": 30
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "kirishima": {
+                "offset": {
+                    "x": 50,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": 25
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "kirishima-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": 35
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "fusou": {
+            "fusou": {
+                "offset": {
+                    "x": 150,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": 150,
+                    "y": -70
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "fusou-kai": {
+                "offset": {
+                    "x": 55,
+                    "y": -65
+                },
+                "offset2": {
+                    "x": 55,
+                    "y": -60
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "fusou-kaini": {
+                "offset": {
+                    "x": 105,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -25
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "yamashiro": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "yamashiro-kai": {
+                "offset": {
+                    "x": 15,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 25
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "yamashiro-kaini": {
+                "offset": {
+                    "x": 20,
+                    "y": 5
+                },
+                "offset2": {
+                    "x": -35,
+                    "y": -20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "ise": {
+            "ise": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "ise-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "ise-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -20
+                },
+                "rarity": 8,
+                "seasons": [],
+                "implicates": []
+            },
+            "hyuuga": {
+                "offset": {
+                    "x": 0,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -40
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "hyuuga-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "yamato": {
+            "yamato": {
+                "offset": {
+                    "x": 100,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": 100,
+                    "y": 25
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "yamato-kai": {
+                "offset": {
+                    "x": 100,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": 100,
+                    "y": 25
+                },
+                "rarity": 8,
+                "seasons": [],
+                "implicates": []
+            },
+            "musashi": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -45
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "musashi-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -45
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "musashi-kaini": {
+                "offset": {
+                    "x": 200,
+                    "y": -50
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -25
+                },
+                "rarity": 8,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "bismarck": {
+            "bismarck": {
+                "offset": {
+                    "x": 140,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "bismarck-kai": {
+                "offset": {
+                    "x": 140,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "bismarck3-zwei": {
+                "offset": {
+                    "x": 140,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "bismarck-drei": {
+                "offset": {
+                    "x": 110,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": 40,
+                    "y": -40
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "vittorioveneto": {
+            "littorio": {
+                "offset": {
+                    "x": 100,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": 20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "italia": {
+                "offset": {
+                    "x": 100,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": 20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "roma1": {
+                "offset": {
+                    "x": 50,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 100,
+                    "y": -30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "roma-kai": {
+                "offset": {
+                    "x": 50,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 100,
+                    "y": -30
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "iowa": {
+            "iowa": {
+                "offset": {
+                    "x": 70,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": 0
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "queenelizabeth": {
+            "warspite": {
+                "offset": {
+                    "x": -30,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -5
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "gangut": {
+            "gangut": {
+                "offset": {
+                    "x": 30,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": -5
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "oktyabrskaya": {
+                "offset": {
+                    "x": 30,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": -5
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "gangut-dva": {
+                "offset": {
+                    "x": 200,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 90,
+                    "y": -5
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "richelieu": {
+            "richelieu": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 10,
+                    "y": -20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        }
+    },
+    "CV": {
+        "akagi": {
+            "akagi": {
+                "offset": {
+                    "x": 50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "kaga": {
+            "kaga": {
+                "offset": {
+                    "x": 0,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -70
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "souryuu": {
+            "souryuu": {
+                "offset": {
+                    "x": 20,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -40
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "souryuu-kaini": {
+                "offset": {
+                    "x": 50,
+                    "y": -160
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -160
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "hiryuu": {
+            "hiryuu": {
+                "offset": {
+                    "x": 0,
+                    "y": -120
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -120
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "hiryuu-kaini": {
+                "offset": {
+                    "x": 15,
+                    "y": -165
+                },
+                "offset2": {
+                    "x": 15,
+                    "y": -165
+                },
+                "rarity": 8,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "shoukaku": {
+            "shoukaku": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": [],
+                "full": "Shoukaku",
+                "name": "Shoukaku"
+            },
+            "shoukaku-kaini": {
+                "offset": {
+                    "x": 95,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": 0
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "shoukaku-kainia": {
+                "offset": {
+                    "x": 95,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": 0
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "zuikaku": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "zuikaku-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "zuikaku-kaini": {
+                "offset": {
+                    "x": 50,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 150,
+                    "y": -25
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "zuikaku-kainia": {
+                "offset": {
+                    "x": 50,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": 150,
+                    "y": -25
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "taihou": {
+            "taihou": {
+                "offset": {
+                    "x": -75,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": 50
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "taihou-kai": {
+                "offset": {
+                    "x": -25,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": 50
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "unryuu": {
+            "unryuu": {
+                "offset": {
+                    "x": 100,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -10
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "unryuu-kai": {
+                "offset": {
+                    "x": 60,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "amagi": {
+                "offset": {
+                    "x": -10,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": -30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "amagi-kai": {
+                "offset": {
+                    "x": 40,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": 5
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "katsuragi": {
+                "offset": {
+                    "x": 25,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -40
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "katsuragi-kai": {
+                "offset": {
+                    "x": -60,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": 5
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "grafzeppelin": {
+            "grafzeppelin": {
+                "offset": {
+                    "x": -15,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": 40,
+                    "y": -60
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "grafzeppelin-kai": {
+                "offset": {
+                    "x": -15,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": 40,
+                    "y": -60
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "aquila": {
+            "aquila": {
+                "offset": {
+                    "x": -65,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -75,
+                    "y": -5
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "lexington": {
+            "saratoga": {
+                "offset": {
+                    "x": 125,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -75,
+                    "y": -15
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "saratoga-kai": {
+                "offset": {
+                    "x": 80,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -75,
+                    "y": -15
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "saratoga-mkii": {
+                "offset": {
+                    "x": 80,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -15,
+                    "y": -15
+                },
+                "rarity": 8,
+                "seasons": [],
+                "implicates": []
+            },
+            "saratoga-mkii2": {
+                "offset": {
+                    "x": 80,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -15,
+                    "y": -15
+                },
+                "rarity": 8,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "essex": {
+            "intrepid": {
+                "offset": {
+                    "x": -35,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -15
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "intrepid-kai": {
+                "offset": {
+                    "x": -35,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -15
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "arkroyal": {
+            "arkroyal": {
+                "offset": {
+                    "x": 0,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -55,
+                    "y": 15
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        }
+    },
+    "CVL": {
+        "houshou": {
+            "houshou": {
+                "offset": {
+                    "x": -30,
+                    "y": -95
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -90
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "ryuujou": {
+            "ryuujou": {
+                "offset": {
+                    "x": -20,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "ryuujou-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 45
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": 45
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "ryuujou-kaini": {
+                "offset": {
+                    "x": 50,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "hiyou": {
+            "hiyou": {
+                "offset": {
+                    "x": 20,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "hiyou-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 40
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "junyou": {
+                "offset": {
+                    "x": 25,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 25,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "junyou-kaini": {
+                "offset": {
+                    "x": 70,
+                    "y": 5
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "shouhou": {
+            "shouhou": {
+                "offset": {
+                    "x": -20,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -30
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "shouhou-kai": {
+                "offset": {
+                    "x": 25,
+                    "y": 60
+                },
+                "offset2": {
+                    "x": -75,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "zuihou": {
+                "offset": {
+                    "x": 75,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 75,
+                    "y": 25
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "zuihou-kai": {
+                "offset": {
+                    "x": 75,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 75,
+                    "y": 25
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "zuihou-kaini": {
+                "offset": {
+                    "x": 40,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": -80,
+                    "y": -35
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "zuihou-kainib": {
+                "offset": {
+                    "x": 40,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": -80,
+                    "y": -35
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "chitose": {
+            "chitosecvl": {
+                "offset": {
+                    "x": 100,
+                    "y": -15
+                },
+                "offset2": {
+                    "x": 25,
+                    "y": -5
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "chitosecvl-kaini": {
+                "offset": {
+                    "x": 50,
+                    "y": -5
+                },
+                "offset2": {
+                    "x": 85,
+                    "y": -25
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "chiyodacvl": {
+                "offset": {
+                    "x": 30,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": -40
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "chiyodacvl-kaini": {
+                "offset": {
+                    "x": 20,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": 60,
+                    "y": -40
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "ryuuhou": {
+            "ryuuhou": {
+                "offset": {
+                    "x": 100,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "ryuuhou-kai": {
+                "offset": {
+                    "x": 150,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -10
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "mogami": {
+            "suzuyacvl-kaini": {
+                "offset": {
+                    "x": -40,
+                    "y": 40
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "kumanocvl-kaini": {
+                "offset": {
+                    "x": -50,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "taiyou": {
+            "kasugamaru": {
+                "offset": {
+                    "x": -40,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "taiyou": {
+                "offset": {
+                    "x": -40,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "taiyou-kai": {
+                "offset": {
+                    "x": -40,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "taiyou-kaini": {
+                "offset": {
+                    "x": -40,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "casablanca": {
+            "gambierbay": {
+                "offset": {
+                    "x": -50,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -40
+                },
+                "rarity": 5,
+                "seasons": ["ICE"],
+                "implicates": []
+            }
+        }
+    },
+    "SS": {
+        "kaidai6a": {
+            "i1681": {
+                "offset": {
+                    "x": -10,
+                    "y": -100
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": -100
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "typeb3": {
+            "i58": {
+                "offset": {
+                    "x": -25,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -25,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "typej3": {
+            "i8": {
+                "offset": {
+                    "x": -50,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -25
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "sentoku": {
+            "i400": {
+                "offset": {
+                    "x": 10,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "i401": {
+                "offset": {
+                    "x": 10,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": 10,
+                    "y": 50
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "type3": {
+            "maruyu": {
+                "offset": {
+                    "x": -30,
+                    "y": 33
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": -40
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "typeixc": {
+            "u511": {
+                "offset": {
+                    "x": -40,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -30
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "ro500": {
+                "offset": {
+                    "x": -30,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 25
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "junsentypeb": {
+            "i19": {
+                "offset": {
+                    "x": -35,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -35,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "i26": {
+                "offset": {
+                    "x": -60,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -45,
+                    "y": 25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "typeam": {
+            "i13": {
+                "offset": {
+                    "x": -50,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -55,
+                    "y": -25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "i13-kai": {
+                "offset": {
+                    "x": -50,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -55,
+                    "y": -25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "i14": {
+                "offset": {
+                    "x": -50,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -55,
+                    "y": -25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "i14-kai": {
+                "offset": {
+                    "x": -50,
+                    "y": 30
+                },
+                "offset2": {
+                    "x": -55,
+                    "y": -25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "marconi": {
+            "luigitorelli": {
+                "offset": {
+                    "x": -50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -60,
+                    "y": -25
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "uit25": {
+                "offset": {
+                    "x": -50,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -60,
+                    "y": -30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "i504": {
+                "offset": {
+                    "x": -50,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -60,
+                    "y": -25
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        }
+    },
+    "AX": {
+        "chitose": {
+            "chitose": {
+                "offset": {
+                    "x": 0,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 10
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "chitose-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 10
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "chitose-a": {
+                "offset": {
+                    "x": 0,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 10
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "chiyoda": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 40,
+                    "y": -40
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "chiyoda-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 40,
+                    "y": -40
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            },
+            "chiyoda-a": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 40,
+                    "y": -40
+                },
+                "rarity": 3,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "hei": {
+            "akitsumaru": {
+                "offset": {
+                    "x": -50,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 35
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "akitsumaru-kai": {
+                "offset": {
+                    "x": 50,
+                    "y": -35
+                },
+                "offset2": {
+                    "x": -25,
+                    "y": 35
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "akashi": {
+            "akashi": {
+                "offset": {
+                    "x": 50,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 10,
+                    "y": 10
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "akashi-kai": {
+                "offset": {
+                    "x": 50,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": 20,
+                    "y": 10
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "taigei": {
+            "taigei": {
+                "offset": {
+                    "x": -75,
+                    "y": 50
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "akitsushima": {
+            "akitsushima": {
+                "offset": {
+                    "x": 50,
+                    "y": -45
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -70
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            },
+            "akitsushima-kai": {
+                "offset": {
+                    "x": 73,
+                    "y": -45
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -70
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "mizuho": {
+            "mizuho": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": 10,
+                    "y": 10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "revisedkazahaya": {
+            "hayasui": {
+                "offset": {
+                    "x": 0,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -5
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "commandantteste": {
+            "commandantteste": {
+                "offset": {
+                    "x": 0,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -40
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        },
+        "kamoi": {
+            "kamoi": {
+                "offset": {
+                    "x": 0,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": [],
+                "implicates": []
+            },
+            "kamoi-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -20
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "kamoi-kai-bo": {
+                "offset": {
+                    "x": 5,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 5,
+                    "y": 5
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            }
+        }
+    }
+}

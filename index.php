@@ -1,11 +1,15 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Kancolle Completion Badge Generator</title>
 		<meta charset="UTF-8">
 		<link href='http://fonts.googleapis.com/css?family=Exo' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
-		<script type="text/javascript" src="./jquery.min.js"></script>
-		<script type="text/javascript" src="./litetabs.jquery.js"></script>
+		<script src="http://code.jquery.com/jquery-1.12.4.js"></script>
+		<script src="https://code.jquery.com/jquery-3.0.0.js"></script>
+		<link href="./js/jquery-ui-1.12.1/jquery-ui.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="./js/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+		
 		<script type="text/javascript" src="./jquery.tooltipster.min.js"></script>
 		<script>
 			var importName = <?php echo isset($_POST["ttkName"]) ? "'" . $_POST["ttkName"] . "'" : "undefined" ?>;
@@ -19,7 +23,7 @@
 		</script>
 		<script type="text/javascript" src="./Base64.js"></script>
 		<script type="text/javascript" src="./js/DataManager.js"></script>
-		<script type="text/javascript" src="./kaini.min.js?version=16"></script>
+		<script type="text/javascript" src="./kaini.js?version=16"></script>
 		<script type="text/javascript">
 			lang = "en";
 		</script>
@@ -51,7 +55,7 @@
 					</div>
 				</div>
 			</div>
-			<div id="tabs" class="rounded">
+			<div id="tabs" class="rounded hidden">
 				<ul>
 					<li><a href="#ttkTab">General</a></li>
 					<li><a href="#flagTab">Fleets</a></li>
@@ -60,7 +64,7 @@
 					<li><a href="#furnTab">Furniture</a></li>
 					<li><a href="#customTab">Custom</a></li>
 				</ul>
-				<div id="ttkInfo" name="#ttkTab">
+				<div id="ttkTab">
 					<div>
 						<label for="name">Admiral Name</label> <input type="text" name="name" id="name" maxlength="26" placeholder="Admiral Name">
 						<label for="level" class="short">Lv.</label> <input type="number" name="level" id="level" min="1" max="120" placeholder="1 - 120">
@@ -95,7 +99,7 @@
 						<label for="useBlue">Show Only Kai Ni (no BP Kai)</label> <input type="checkbox" name="useBlue" id="useBlue" checked>
 					</div>
 				</div>
-				<div id="flagTab" name="#flagTab">			
+				<div id="flagTab">			
 					<div id="fleetWrapper">
 						<div id="fleetSelect">
 							<div id="fleet1" class="chosen">1</div>
@@ -159,7 +163,7 @@
 						<div class="divAAX shipClasses"></div>
 					</div>
 				</div>
-				<div id="shipTab" name="#shipTab">
+				<div id="shipTab">
 					<div class="shipClass" id="dd">
 						<h3>Destroyers</h3>
 						<div class="shipOptions"></div>
@@ -196,29 +200,29 @@
 						<input type="checkbox" id="selectAll"><label for="selectAll">Select All</label>
 					</div>
 				</div>
-			<div id="colleDiv" name="#colleTab">
-				<div class="shipList">
-					<label>DE 海防</label>
-					<div class="divDE shipClasses"></div>
-					<label>DD 駆逐</label>
-					<div class="divDD shipClasses"></div>
-					<label>CL/CLT 軽巡/雷巡</label>
-					<div class="divCL shipClasses"></div>
-					<label>CA/CAV 重巡/航巡</label>
-					<div class="divCA shipClasses"></div>
-					<label>BB/BBV 戦艦/航戦 </label>
-					<div class="divBB shipClasses"></div>
-					<label>CVL 軽母</label>
-					<div class="divCVL shipClasses"></div>
-					<label>CV/CVB 航/装母</label>
-					<div class="divCV shipClasses"></div>
-					<label>SS/SSV 潜/潜母</label>
-					<div class="divSS shipClasses"></div>
-					<label>AX その他</label>
-					<div class="divAX shipClasses"></div>
+				<div id="colleTab">
+					<div class="shipList">
+						<label>DE 海防</label>
+						<div class="divDE shipClasses"></div>
+						<label>DD 駆逐</label>
+						<div class="divDD shipClasses"></div>
+						<label>CL/CLT 軽巡/雷巡</label>
+						<div class="divCL shipClasses"></div>
+						<label>CA/CAV 重巡/航巡</label>
+						<div class="divCA shipClasses"></div>
+						<label>BB/BBV 戦艦/航戦 </label>
+						<div class="divBB shipClasses"></div>
+						<label>CVL 軽母</label>
+						<div class="divCVL shipClasses"></div>
+						<label>CV/CVB 航/装母</label>
+						<div class="divCV shipClasses"></div>
+						<label>SS/SSV 潜/潜母</label>
+						<div class="divSS shipClasses"></div>
+						<label>AX その他</label>
+						<div class="divAX shipClasses"></div>
+					</div>
 				</div>
-			</div>
-			<div id="furndiv" name="#furnTab">
+			<div id="furnTab">
 				<div class="furnitureClass invert" id="Floor">
 					<h3>Floors</h3>
 					<div class="shipOptions">
@@ -567,7 +571,7 @@
 				</div>
 				<div style="clear:both;"></div>
 				</div>
-				<div id="customInputs" name="#customTab">
+				<div id="customTab">
 					<div><label for="shipImg">Custom Kanmusu Image</label> <input type='file' id="shipImg" /> <button type="button" id="shipClear">Clear</button></div>
 					<div><label for="customX">Kanmusu X</label> <input type="number" id="customX" min="-800" max="800" value="0"> <label for="customY">Kanmusu Y</label> <input type="number" id="customY" min="-500" max="500" value="0"></div>
 					<div><label for="customZ">Kanmusu Zoom</label> <input type="number" id="customZ" min="-50" max="50" value="0">%</div>

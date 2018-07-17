@@ -229,7 +229,7 @@ $(document).ready(function() {
         }
         if (colleTemp) {
             colle = colleTemp;
-            $("#colleDiv img").removeClass("selected");
+            $("#colleTab img").removeClass("selected");
             for (var i in colle) {
                 $("#kore" + i).addClass("selected");
             }
@@ -294,7 +294,7 @@ $(document).ready(function() {
                         }
                     }
                 } else {
-                    activeImg.load(function() {
+                    activeImg.on("load", function() {
                             loadCount++;
                             if (loadCount == Object.keys(furnTemp).length) {
                                 $("#buttons button").prop("disabled", false);
@@ -594,11 +594,11 @@ $(document).ready(function() {
         ctx.textAlign = "right";
         drawText((lang == "en" ? "DE" : "海"), row1, line1 + newLength - 9);
         var numDE = 0;
-        var maxDE = $("#colleDiv .divDE img.selected").length;
+        var maxDE = $("#colleTab .divDE img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
 
-        $("#colleDiv .divDE img").each(function(i) {
+        $("#colleTab .divDE img").each(function(i) {
 
             var x = row1box + numDE * hexRectangleWidth;
             var y = Math.floor(numDE / maxPerLine) * +linebarwidth / 2 + line1 - 15;
@@ -619,11 +619,11 @@ $(document).ready(function() {
         ctx.textAlign = "right";
         drawText((lang == "en" ? "DD" : "駆"), row2, line2 + newLength - 9);
         var numDD = 0;
-        var maxDD = $("#colleDiv .divDD img.selected").length;
+        var maxDD = $("#colleTab .divDD img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
 
-        $("#colleDiv .divDD img").each(function(i) {
+        $("#colleTab .divDD img").each(function(i) {
             var x = row2box + numDD % maxPerLine * hexRectangleWidth;
             if (Math.floor(numDD / maxPerLine % 2) > 0) {
                 x = row2box + (maxPerLine - numDD % maxPerLine) * hexRectangleWidth - hexRadius;
@@ -650,10 +650,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "CL" : "軽巡"), row1, line3 + newLength - 9);
         var numCL = 0;
-        var maxCL = $("#colleDiv .divCL img.selected").length;
+        var maxCL = $("#colleTab .divCL img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divCL img").each(function() {
+        $("#colleTab .divCL img").each(function() {
             var x = row1box + numCL * hexRectangleWidth;
             var y = line3 - 15;
             var img = document.getElementById(this.id);
@@ -668,11 +668,11 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "CA" : "重巡"), row2, line4 + newLength - 9);
         var numCA = 0;
-        var maxCA = $("#colleDiv .divCA img.selected").length;
+        var maxCA = $("#colleTab .divCA img.selected").length;
         var blue = 0;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divCA img").each(function() {
+        $("#colleTab .divCA img").each(function() {
             var x = row2box + numCA * hexRectangleWidth;
             var y = line4 - 15;
             var img = document.getElementById(this.id);
@@ -687,10 +687,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "CVL" : "軽母"), row2, line6 + newLength - 9);
         var numCVL = 0;
-        var maxCVL = $("#colleDiv .divCVL img.selected").length;
+        var maxCVL = $("#colleTab .divCVL img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divCVL img").each(function() {
+        $("#colleTab .divCVL img").each(function() {
             var x = row2box + numCVL * hexRectangleWidth;
             var y = line6 - 15;
             var img = document.getElementById(this.id);
@@ -705,10 +705,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "BB" : "戦"), row1, line5 + newLength - 9);
         var numBB = 0;
-        var maxBB = $("#colleDiv .divBB img.selected").length;
+        var maxBB = $("#colleTab .divBB img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divBB img").each(function() {
+        $("#colleTab .divBB img").each(function() {
             var x = row1box + numBB * hexRectangleWidth;
             var y = line5 - 15;
             var img = document.getElementById(this.id);
@@ -723,10 +723,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "CV" : "航"), row1, line7 + newLength - 9);
         var numCV = 0;
-        var maxCV = $("#colleDiv .divCV img.selected").length;
+        var maxCV = $("#colleTab .divCV img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divCV img").each(function() {
+        $("#colleTab .divCV img").each(function() {
             var x = row1box + numCV * hexRectangleWidth;
             var y = line7 - 15;
             var img = document.getElementById(this.id);
@@ -741,10 +741,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "SS" : "潜"), row2, line8 + newLength - 9);
         var numSS = 0;
-        var maxSS = $("#colleDiv .divSS img.selected").length;
+        var maxSS = $("#colleTab .divSS img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divSS img").each(function() {
+        $("#colleTab .divSS img").each(function() {
             var x = row2box + numSS * hexRectangleWidth;
             var y = line8 - 15;
             var img = document.getElementById(this.id);
@@ -759,10 +759,10 @@ $(document).ready(function() {
 
         drawText((lang == "en" ? "AX" : "他"), row1, line9 + newLength - 9);
         var numAX = 0;
-        var maxAX = $("#colleDiv .divAX img.selected").length;
+        var maxAX = $("#colleTab .divAX img.selected").length;
         ctx.save();
         ctx.fillStyle = "white";
-        $("#colleDiv .divAX img").each(function() {
+        $("#colleTab .divAX img").each(function() {
             var x = row1box + numAX * hexRectangleWidth;
             var y = line9 - 15;
             var img = document.getElementById(this.id);
@@ -776,7 +776,7 @@ $(document).ready(function() {
         ctx.restore();
 
         ctx.font = "12px " + textfont;
-        var shipBoxes = $("#colleDiv");
+        var shipBoxes = $("#colleTab");
         var chkShips = shipBoxes.find("img.selected").length;
         var allShips = shipBoxes.find("img").length;
 
@@ -1319,43 +1319,6 @@ $(document).ready(function() {
         ctx.mozImageSmoothingEnabled = true;
         ctx.webkitImageSmoothingEnabled = true;
 
-        var i = 0;
-        for (var e in shipDB) {
-            var ship = shipDB[e];
-            if (ship.name) {
-                var newDiv = $('<img class="tooltip" title="' + ship.full + '" src="icons/' + ship.type + '/' + e + '.png" id="icon' + e + '"></img>');
-                var extraSpan = $('<span id="hit' + e + '">破</span>');
-                newDiv.on("load", function() {
-                    i++;
-                    $("#loadingProgress").html(i + "/" + Object.keys(shipDB).length);
-                    if (i == Object.keys(shipDB).length) {
-                        doneLoading();
-                    }
-                });
-                if ($(".shipList [data-name='" + ship.name + "']").length == 0) {
-                    $(".div" + ship.type).append('<div><label>' + ship.name.replace(new RegExp('_', 'g'), ' ') + '</label><div data-name="' + ship.name + '" class="' + ship.type + '"></div></div>');
-                }
-                if (ship.unique) {
-                    $("#colleDiv [data-name='" + ship.name + "']").append('<img title="' + ship.full + '"alt="full/FinalBoss.png" src="icons/' + ship.type + '/' + e + '.png" id="kore' + e + '"></img>').append(extraSpan);
-                }
-                $("#avatars [data-name='" + ship.name + "']").append(newDiv).append(extraSpan);
-            }
-        }
-
-        $("#colleDiv .shipClasses").each(function(i) {
-            var selectClass = $("<div class='colleAll'><input id='selectAll-" + i + "' type='checkbox'/><label for='selectAll-" + i + "'>" + (lang == "jp" ? "全て選択" : (lang == "cn" || lang == "tw") ? "全選" : "Select All") + "</label></div>");
-            $(this).append(selectClass);
-            selectClass.find("input").change(function() {
-                var imgs = $(this).parent().parent().find("img");
-                for (var e in imgs.toArray()) {
-                    var img = $(imgs[e]);
-                    colle[img.attr("id").substring(4)] = this.checked;
-                    img.toggleClass("selected", this.checked);
-                }
-                generateFunction("colleChangeAll");
-            });
-        });
-
         $('.tooltip').tooltipster();
 
         $(".shipClasses").find("label").next("div").each(function() {
@@ -1364,7 +1327,7 @@ $(document).ready(function() {
             }
         });
 
-        $("#fleetSelect div").click(function() {
+        $("#fleetSelect div").on("click", function() {
             $("#fleetSelect .chosen").removeClass("chosen");
             $(this).toggleClass("chosen");
             var index = this.id.substring(5);
@@ -1383,14 +1346,14 @@ $(document).ready(function() {
             }
         });
 
-        $("#fleets div").click(function() {
+        $("#fleets div").on("click", function() {
             $("#fleets .chosen").removeClass("chosen");
             $(this).toggleClass("chosen");
             var index = this.id.substring(4);
             selectedSlot = parseInt(index) - 1;
         });
 
-        $("#fleetLevels input").change(function() {
+        $("#fleetLevels input").on("change", function() {
             var index = this.id.substring(5);
             selectedSlot = parseInt(index) - 1;
             fleetLevels[selectedFleet][selectedSlot] = this.value;
@@ -1411,7 +1374,7 @@ $(document).ready(function() {
             generateFunction("fleetShipChange");
         });
 
-        $("#colleDiv img").on("click", function() {
+        $("#colleTab img").on("click", function() {
             if (colle[$(this).attr("id").substring(4)] && $(this).hasClass("selected")) {
                 delete colle[$(this).attr("id").substring(4)];
             } else if (!$(this).hasClass("selected")) {
@@ -1424,15 +1387,15 @@ $(document).ready(function() {
 
         $("#avatars span").on("click", bindAvatars);
 
-        $(".shipList > label").click(function() {
+        $(".shipList > label").on("click", function() {
             $(this).next("div").slideToggle();
         });
 
-        $(".shipClasses label").click(function() {
+        $(".shipClasses label").on("click", function() {
             $(this).next("div").toggle();
         });
 
-        $("#removeSlot").click(function() {
+        $("#removeSlot").on("click", function() {
             if (selectedFleet == 0 && selectedSlot == 0) {
                 $(".damaged").removeClass("damaged");
                 $(".flagship").removeClass("flagship");
@@ -1444,7 +1407,7 @@ $(document).ready(function() {
             generateFunction("fleetRemoveSlot");
         });
 
-        $(".shipOptions input[type='checkbox']").change(function() {
+        $(".shipOptions input[type='checkbox']").on("change", function() {
             generateFunction("kainiShipChange");
         });
 
@@ -1500,7 +1463,7 @@ $(document).ready(function() {
                 loading[type] = imgToLoad;
                 $("#buttons button").prop("disabled", true);
                 $("#loadingDiv").html("Rendering...");
-                activeImg.load(function() {
+                activeImg.on("load", function() {
                         delete loading[type];
                         if ($.isEmptyObject(loading)) {
                             $("#buttons button").prop("disabled", false);
@@ -1520,7 +1483,7 @@ $(document).ready(function() {
             }
 
             if (type == "Window") {
-                $("#Outside").change();
+                $("#Outside").on("change", );
             }
         });
 
@@ -1540,7 +1503,7 @@ $(document).ready(function() {
                     drawRoom(132);
                 } else generateFunction("furnitureOutsideCache");
             } else {
-                activeOut.load(function() {
+                activeOut.on("load", function() {
                     delete loading["Outside"];
                     if ($.isEmptyObject(loading)) {
                         $("#buttons button").prop("disabled", false);
@@ -1554,19 +1517,19 @@ $(document).ready(function() {
 
         })
 
-        $("#ttkInfo input[type='text'],#ttkInfo input[type='number']").blur(function() {
-            generateFunction("ttkInfo");
+        $("#ttkTab input[type='text'],#ttkTab input[type='number']").on("blur", function() {
+            generateFunction("ttkTab");
         });
 
-        $("#ttkInfo select").click(function() {
+        $("#ttkTab select").on("click", function() {
             generateFunction("ttkServer");
         });
 
-        $("#ttkInfo input[type='checkbox']").click(function() {
+        $("#ttkTab input[type='checkbox']").on("click", function() {
             generateFunction("ttkLevel");
         });
 
-        $("#loadAbyss").click(function() {
+        $("#loadAbyss").on("click", function() {
             loadAbyssalShips();
         });
 
@@ -1598,23 +1561,23 @@ $(document).ready(function() {
             $(".export-container").remove();
         });
 
-        $('#avatar').load(function() {
+        $('#avatar').on("load", function() {
             if ($.isEmptyObject(loading)) generateFunction("avatarImgChange");
         });
 
-        $('#bg').load(function() {
+        $('#bg').on("load", function() {
             if ($.isEmptyObject(loading)) generateFunction("bgImgChange");
         });
 
-        $("#customInputs input[type='checkbox']").change(function() {
+        $("#customInputs input[type='checkbox']").on("change", function() {
             generateFunction("customInputChange");
         });
 
-        $("#customInputs input[type='number']").change(function() {
+        $("#customInputs input[type='number']").on("change", function() {
             generateFunction("customInputChange");
         });
 
-        $("#avatarImg").change(function() {
+        $("#avatarImg").on("change", function() {
             if (this.files && this.files[0]) {
                 var reader = new FileReader();
 
@@ -1627,7 +1590,7 @@ $(document).ready(function() {
             }
         });
 
-        $("#shipImg").change(function() {
+        $("#shipImg").on("change", function() {
             if (this.files && this.files[0]) {
                 var reader = new FileReader();
 
@@ -1641,7 +1604,7 @@ $(document).ready(function() {
             }
         });
 
-        $("#bgImg").change(function() {
+        $("#bgImg").on("change", function() {
             $("#useBG").prop("checked", false);
             if (this.files && this.files[0]) {
                 var reader = new FileReader();
@@ -1655,35 +1618,36 @@ $(document).ready(function() {
             }
         });
 
-        $("#shipClear").click(function() {
+        $("#shipClear").on("click", function() {
             globalship = null;
             $('#shipImg').val("");
             $('#customShip').removeAttr('src');
             generateFunction('clear');
         });
 
-        $("#avatarClear").click(function() {
+        $("#avatarClear").on("click", function() {
             globalavatar = null;
             $('#avatarImg').val("");
             $('#avatar').removeAttr('src');
             generateFunction('clear');
         });
 
-        $("#bgClear").click(function() {
+        $("#bgClear").on("click", function() {
             globalbg = null;
             $('#bgImg').val("");
             $('#bg').attr('src', 'bg.jpg');
             generateFunction('clear');
         });
+        $("#tabs").removeClass("hidden");
 
     }
     loader = new DataLoader(lang);
     loader.initData(init);
 });
 
-$(window).load(function() {
-    $("#tabs").liteTabs({ "width": "100%" });
-    $("#tabs").show();
+$(window).on("load", function() {
+    $("#tabs").tabs();
+    //$("#tabs").show();
 
     $(".furnitureClass.invert > div div").each(function() {
         //Newest Furniture First
