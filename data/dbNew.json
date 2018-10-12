@@ -39,7 +39,7 @@
                     "y": -90
                 },
                 "rarity": 4,
-                "seasons": ["ICE"],
+                "seasons": ["YKT", "RAIN","ICE"],
                 "implicates": []
             },
             "etorofu-kai": {
@@ -65,7 +65,7 @@
                     "y": -110
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["ICE", "YKT"],
                 "implicates": []
             },
             "sado": {
@@ -78,7 +78,7 @@
                     "y": -90
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["XMAS","SETS","ZUIUN"],
                 "implicates": []
             },
             "tsushima": {
@@ -91,7 +91,7 @@
                     "y": -70
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["YE", "NY"],
                 "implicates": []
             },
             "fukae": {
@@ -104,7 +104,7 @@
                     "y": -120
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["RAIN"],
                 "implicates": []
             }
         },
@@ -149,7 +149,7 @@
                     "y": -70
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["DB"],
                 "implicates": []
             }
         },
@@ -164,7 +164,7 @@
                     "y": -15
                 },
                 "rarity": 3,
-                "seasons": [],
+                "seasons": ["HAPPI"],
                 "implicates": []
             },
             "fubuki-kaini": {
@@ -177,8 +177,8 @@
                     "y": -60
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["HAPPI"],
+                "implicates": ["fubuki"]
             },
             "shirayuki": {
                 "offset": {
@@ -229,7 +229,7 @@
                     "y": -80
                 },
                 "rarity": 2,
-                "seasons": [],
+                "seasons": ["VAL"],
                 "implicates": []
             },
             "murakumo-kaini": {
@@ -242,8 +242,8 @@
                     "y": -35
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["VAL"],
+                "implicates": ["murakumo"]
             },
             "isonami": {
                 "offset": {
@@ -255,10 +255,10 @@
                     "y": 0
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["BS"],
                 "implicates": []
             },
-            "uranami1": {
+            "uranami": {
                 "offset": {
                     "x": -60,
                     "y": -20
@@ -268,7 +268,7 @@
                     "y": -20
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["SETS", "NR", "WE2018"],
                 "implicates": []
             }
         },
@@ -283,7 +283,7 @@
                     "y": 0
                 },
                 "rarity": 3,
-                "seasons": [],
+                "seasons": ["YKT"],
                 "implicates": []
             },
             "ayanami-kaini": {
@@ -297,7 +297,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["ayanami"]
             },
             "shikinami": {
                 "offset": {
@@ -309,7 +309,46 @@
                     "y": 25
                 },
                 "rarity": 2,
+                "seasons": ["YKT"],
+                "implicates": []
+            },
+            "amagiri": {
+                "offset": {
+                    "x": -70,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": -25,
+                    "y": -60
+                },
+                "rarity": 4,
+                "seasons": ["AUTCAS", "SPNG"],
+                "implicates": []
+            },
+            "amagiri-kai": {
+                "offset": {
+                    "x": -70,
+                    "y": -80
+                },
+                "offset2": {
+                    "x": -65,
+                    "y": -100
+                },
+                "rarity": 6,
                 "seasons": [],
+                "implicates": ["amagiri"]
+            },
+            "sagiri": {
+                "offset": {
+                    "x": -30,
+                    "y": -50
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -70
+                },
+                "rarity": 4,
+                "seasons": ["MPF","AUTCAS", "L.AUTCAS", "XMAS", "RAIN"],
                 "implicates": []
             },
             "oboro": {
@@ -322,7 +361,7 @@
                     "y": -20
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["SUM", "YKT", "SUM16", "VAL", "SAS"],
                 "implicates": []
             },
             "oboro-kai": {
@@ -335,8 +374,8 @@
                     "y": -10
                 },
                 "rarity": 4,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["SUM16"],
+                "implicates": ["oboro"]
             },
             "akebono": {
                 "offset": {
@@ -348,7 +387,7 @@
                     "y": -75
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["YE", "YE14", "SUM", "SUM16", "MPF", "VAL", "RAIN", "OYA"],
                 "implicates": []
             },
             "akebono-kai": {
@@ -362,7 +401,7 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["akebono"]
             },
             "sazanami": {
                 "offset": {
@@ -374,7 +413,7 @@
                     "y": -25
                 },
                 "rarity": 2,
-                "seasons": [],
+                "seasons": ["XMAS", "XMAS14", "XMAS15", "SUM", "RAIN"],
                 "implicates": []
             },
             "sazanami-kai": {
@@ -388,7 +427,7 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["sazanami"]
             },
             "ushio": {
                 "offset": {
@@ -400,7 +439,7 @@
                     "y": -50
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["SUM", "MPF", "NY", "HINA", "VAL"],
                 "implicates": []
             },
             "ushio-kaini": {
@@ -413,34 +452,8 @@
                     "y": -95
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
-            },
-            "sagiri": {
-                "offset": {
-                    "x": -30,
-                    "y": -50
-                },
-                "offset2": {
-                    "x": -30,
-                    "y": -70
-                },
-                "rarity": 3,
-                "seasons": [],
-                "implicates": []
-            },
-            "amagiri": {
-                "offset": {
-                    "x": -70,
-                    "y": -70
-                },
-                "offset2": {
-                    "x": -25,
-                    "y": -60
-                },
-                "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["SUM", "MPF", "NY", "HINA"],
+                "implicates": ["ushio"]
             }
         },
         "mutsuki": {
@@ -454,7 +467,7 @@
                     "y": -35
                 },
                 "rarity": 3,
-                "seasons": [],
+                "seasons": ["VAL"],
                 "implicates": []
             },
             "mutsuki-kaini": {
@@ -468,7 +481,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["mutsuki"]
             },
             "kisaragi": {
                 "offset": {
@@ -480,7 +493,7 @@
                     "y": 10
                 },
                 "rarity": 2,
-                "seasons": [],
+                "seasons": ["SETS", "VAL"],
                 "implicates": []
             },
             "kisaragi-kaini": {
@@ -494,7 +507,46 @@
                 },
                 "rarity": 6,
                 "seasons": [],
+                "implicates": ["kisaragi"]
+            },
+            "yayoi": {
+                "offset": {
+                    "x": 0,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -70
+                },
+                "rarity": 4,
+                "seasons": ["VAL", "OUT"],
                 "implicates": []
+            },
+            "uzuki": {
+                "offset": {
+                    "x": 30,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": -30
+                },
+                "rarity": 4,
+                "seasons": ["VAL", "MPF"],
+                "implicates": []
+            },
+            "uzuki-kai": {
+                "offset": {
+                    "x": 30,
+                    "y": -30
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -45
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": ["uzuki"]
             },
             "satsuki": {
                 "offset": {
@@ -520,6 +572,19 @@
                 },
                 "rarity": 6,
                 "seasons": [],
+                "implicates": ["satsuki"]
+            },
+            "minazuki": {
+                "offset": {
+                    "x": -75,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": ["VAL"],
                 "implicates": []
             },
             "fumizuki": {
@@ -546,7 +611,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["fumizuki"]
             },
             "nagatsuki": {
                 "offset": {
@@ -558,7 +623,7 @@
                     "y": -130
                 },
                 "rarity": 2,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": []
             },
             "kikuzuki": {
@@ -599,58 +664,6 @@
                 "rarity": 1,
                 "seasons": [],
                 "implicates": []
-            },
-            "yayoi": {
-                "offset": {
-                    "x": 0,
-                    "y": -20
-                },
-                "offset2": {
-                    "x": 0,
-                    "y": -70
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "uzuki": {
-                "offset": {
-                    "x": 30,
-                    "y": -30
-                },
-                "offset2": {
-                    "x": 30,
-                    "y": -30
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "uzuki-kai": {
-                "offset": {
-                    "x": 30,
-                    "y": -30
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": -45
-                },
-                "rarity": 5,
-                "seasons": [],
-                "implicates": []
-            },
-            "minazuki": {
-                "offset": {
-                    "x": -75,
-                    "y": -10
-                },
-                "offset2": {
-                    "x": 0,
-                    "y": -10
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
             }
         },
         "akatsuki": {
@@ -678,7 +691,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["akatsuki"]
             },
             "hibiki": {
                 "offset": {
@@ -703,7 +716,7 @@
                     "y": 0
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["MPF"],
                 "implicates": ["hibiki"]
             },
             "ikazuchi": {
@@ -716,7 +729,7 @@
                     "y": -50
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["YKT"],
                 "implicates": []
             },
             "inazuma": {
@@ -729,7 +742,7 @@
                     "y": -20
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["YKT"],
                 "implicates": []
             }
         },
@@ -758,7 +771,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["hatsuharu"]
             },
             "nenohi": {
                 "offset": {
@@ -770,7 +783,7 @@
                     "y": -135
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["NY"],
                 "implicates": []
             },
             "wakaba": {
@@ -810,7 +823,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["hatsushimo"]
             }
         },
         "shiratsuyu": {
@@ -824,7 +837,7 @@
                     "y": 20
                 },
                 "rarity": 3,
-                "seasons": [],
+                "seasons": ["MOB", "YKT", "AUTCAS"],
                 "implicates": []
             },
             "shiratsuyu-kai": {
@@ -837,8 +850,8 @@
                     "y": -80
                 },
                 "rarity": 4,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["SUM"],
+                "implicates": ["shiratsuyu"]
             },
             "shiratsuyu-kaini": {
                 "offset": {
@@ -851,8 +864,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "seasons": [],
-                "implicates": []
+                "implicates": ["shiratsuyu"]
             },
             "shigure": {
                 "offset": {
@@ -877,8 +889,8 @@
                     "y": -50
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["XMAS", "VAL", "SUM", "WD", "MPF", "DB"],
+                "implicates": ["shigure"]
             },
             "murasame": {
                 "offset": {
@@ -890,7 +902,7 @@
                     "y": 0
                 },
                 "rarity": 2,
-                "seasons": [],
+                "seasons": ["MPF", "OUT"],
                 "implicates": []
             },
             "murasame-kai": {
@@ -903,8 +915,8 @@
                     "y": -100
                 },
                 "rarity": 4,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["RAIN", "SUM"],
+                "implicates": ["murasame"]
             },
             "murasame-kaini": {
                 "offset": {
@@ -916,8 +928,8 @@
                     "y": 10
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["OUT"],
+                "implicates": ["murasame"]
             },
             "yuudachi": {
                 "offset": {
@@ -942,8 +954,34 @@
                     "y": -75
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["NY", "SUM", "RAIN", "OYA"],
+                "implicates": ["yuudachi"]
+            },
+            "harusame": {
+                "offset": {
+                    "x": 10,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -95
+                },
+                "rarity": 4,
+                "seasons": ["AUT", "VAL"],
                 "implicates": []
+            },
+            "harusame-kai": {
+                "offset": {
+                    "x": -40,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -100
+                },
+                "rarity": 5,
+                "seasons": ["SPNG"],
+                "implicates": ["harusame"]
             },
             "samidare": {
                 "offset": {
@@ -958,45 +996,6 @@
                 "seasons": [],
                 "implicates": []
             },
-            "suzukaze": {
-                "offset": {
-                    "x": 0,
-                    "y": 20
-                },
-                "offset2": {
-                    "x": 0,
-                    "y": 20
-                },
-                "rarity": 3,
-                "seasons": [],
-                "implicates": []
-            },
-            "harusame": {
-                "offset": {
-                    "x": 10,
-                    "y": -20
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": -95
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "harusame-kai": {
-                "offset": {
-                    "x": -40,
-                    "y": 20
-                },
-                "offset2": {
-                    "x": -40,
-                    "y": -100
-                },
-                "rarity": 5,
-                "seasons": [],
-                "implicates": []
-            },
             "umikaze": {
                 "offset": {
                     "x": 70,
@@ -1007,7 +1006,20 @@
                     "y": -50
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["SUM"],
+                "implicates": []
+            },
+            "yamakaze": {
+                "offset": {
+                    "x": -40,
+                    "y": 5
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": ["NY", "HINA"],
                 "implicates": []
             },
             "kawakaze": {
@@ -1020,7 +1032,7 @@
                     "y": -80
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["YKT", "XMAS"],
                 "implicates": []
             },
             "kawakaze-kaini": {
@@ -1034,18 +1046,18 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["kawakaze"]
             },
-            "yamakaze": {
+            "suzukaze": {
                 "offset": {
-                    "x": -40,
-                    "y": 5
+                    "x": 0,
+                    "y": 20
                 },
                 "offset2": {
                     "x": 0,
-                    "y": -10
+                    "y": 20
                 },
-                "rarity": 4,
+                "rarity": 3,
                 "seasons": [],
                 "implicates": []
             }
@@ -1075,7 +1087,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["asashio"]
             },
             "asashio-kainid": {
                 "offset": {
@@ -1088,7 +1100,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["asashio", "asashio-kaini"]
             },
             "ooshio": {
                 "offset": {
@@ -1114,7 +1126,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["ooshio"]
             },
             "michishio": {
                 "offset": {
@@ -1139,8 +1151,8 @@
                     "y": 0
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["michishio"]
             },
             "arashio": {
                 "offset": {
@@ -1164,9 +1176,61 @@
                     "x": -70,
                     "y": -5
                 },
-                "rarity": 6,
+                "rarity": 7,
                 "seasons": [],
+                "implicates": ["arashio"]
+            },
+            "asagumo": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": 10
+                },
+                "rarity": 4,
+                "seasons": ["AUT", "XMAS"],
                 "implicates": []
+            },
+            "asagumo-kai": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": 10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": ["asagumo"]
+            },
+            "yamagumo": {
+                "offset": {
+                    "x": -20,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -40
+                },
+                "rarity": 4,
+                "seasons": ["AUT", "XMAS"],
+                "implicates": []
+            },
+            "yamagumo-kai": {
+                "offset": {
+                    "x": -20,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -40
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": ["yamagumo"]
             },
             "arare": {
                 "offset": {
@@ -1178,7 +1242,7 @@
                     "y": -25
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": []
             },
             "arare-kaini": {
@@ -1190,9 +1254,9 @@
                     "x": 0,
                     "y": -55
                 },
-                "rarity": 1,
+                "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["arare"]
             },
             "kasumi": {
                 "offset": {
@@ -1218,7 +1282,7 @@
                 },
                 "rarity": 5,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["kasumi"]
             },
             "kasumi-kainib": {
                 "offset": {
@@ -1231,59 +1295,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
-            },
-            "asagumo": {
-                "offset": {
-                    "x": -30,
-                    "y": 10
-                },
-                "offset2": {
-                    "x": -30,
-                    "y": 10
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "asagumo-kai": {
-                "offset": {
-                    "x": -30,
-                    "y": 10
-                },
-                "offset2": {
-                    "x": -30,
-                    "y": 10
-                },
-                "rarity": 5,
-                "seasons": [],
-                "implicates": []
-            },
-            "yamagumo": {
-                "offset": {
-                    "x": -20,
-                    "y": -40
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": -40
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "yamagumo-kai": {
-                "offset": {
-                    "x": -20,
-                    "y": -40
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": -40
-                },
-                "rarity": 5,
-                "seasons": [],
-                "implicates": []
+                "implicates": ["kasumi", "kasumi-kaini"]
             }
         },
         "kagerou": {
@@ -1311,7 +1323,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["kagerou"]
             },
             "shiranui": {
                 "offset": {
@@ -1323,7 +1335,7 @@
                     "y": 0
                 },
                 "rarity": 2,
-                "seasons": [],
+                "seasons": ["AUTCAS", "DB"],
                 "implicates": []
             },
             "shiranui-kaini": {
@@ -1337,7 +1349,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["shiranui"]
             },
             "kuroshio": {
                 "offset": {
@@ -1363,6 +1375,19 @@
                 },
                 "rarity": 7,
                 "seasons": [],
+                "implicates": ["kuroshio"]
+            },
+            "oyashio": {
+                "offset": {
+                    "x": -65,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -65,
+                    "y": 15
+                },
+                "rarity": 5,
+                "seasons": [],
                 "implicates": []
             },
             "hatsukaze": {
@@ -1375,163 +1400,7 @@
                     "y": -20
                 },
                 "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "maikaze": {
-                "offset": {
-                    "x": 0,
-                    "y": 20
-                },
-                "offset2": {
-                    "x": 0,
-                    "y": 20
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "akigumo": {
-                "offset": {
-                    "x": 10,
-                    "y": -70
-                },
-                "offset2": {
-                    "x": -10,
-                    "y": -50
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "urakaze": {
-                "offset": {
-                    "x": -20,
-                    "y": -20
-                },
-                "offset2": {
-                    "x": -70,
-                    "y": -60
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "urakaze-dkai": {
-                "offset": {
-                    "x": -5,
-                    "y": -10
-                },
-                "offset2": {
-                    "x": -30,
-                    "y": -30
-                },
-                "rarity": 6,
-                "seasons": [],
-                "implicates": []
-            },
-            "tanikaze": {
-                "offset": {
-                    "x": -40,
-                    "y": 15
-                },
-                "offset2": {
-                    "x": -40,
-                    "y": -20
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "hamakaze": {
-                "offset": {
-                    "x": 0,
-                    "y": 0
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": -20
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "hamakaze-bkai": {
-                "offset": {
-                    "x": 35,
-                    "y": -25
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": -90
-                },
-                "rarity": 6,
-                "seasons": [],
-                "implicates": []
-            },
-            "isokaze": {
-                "offset": {
-                    "x": -25,
-                    "y": 20
-                },
-                "offset2": {
-                    "x": -50,
-                    "y": 0
-                },
-                "rarity": 5,
-                "seasons": [],
-                "implicates": []
-            },
-            "isokaze-kai": {
-                "offset": {
-                    "x": -25,
-                    "y": 20
-                },
-                "offset2": {
-                    "x": -50,
-                    "y": 0
-                },
-                "rarity": 6,
-                "seasons": [],
-                "implicates": []
-            },
-            "isokaze-bkai": {
-                "offset": {
-                    "x": 5,
-                    "y": -25
-                },
-                "offset2": {
-                    "x": -10,
-                    "y": -20
-                },
-                "rarity": 7,
-                "seasons": [],
-                "implicates": []
-            },
-            "tokitsukaze": {
-                "offset": {
-                    "x": -30,
-                    "y": 10
-                },
-                "offset2": {
-                    "x": -30,
-                    "y": 10
-                },
-                "rarity": 5,
-                "seasons": [],
-                "implicates": []
-            },
-            "nowaki": {
-                "offset": {
-                    "x": -20,
-                    "y": 20
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": 20
-                },
-                "rarity": 5,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": []
             },
             "yukikaze": {
@@ -1544,7 +1413,7 @@
                     "y": 0
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["DB"],
                 "implicates": []
             },
             "amatsukaze": {
@@ -1571,6 +1440,136 @@
                 },
                 "rarity": 7,
                 "seasons": [],
+                "implicates": ["amatsukaze"]
+            },
+            "tokitsukaze": {
+                "offset": {
+                    "x": -30,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": 10
+                },
+                "rarity": 5,
+                "seasons": [],
+                "implicates": []
+            },
+            "urakaze": {
+                "offset": {
+                    "x": -20,
+                    "y": -20
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": -60
+                },
+                "rarity": 4,
+                "seasons": ["YKT"],
+                "implicates": []
+            },
+            "urakaze-dkai": {
+                "offset": {
+                    "x": -5,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -30,
+                    "y": -30
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": ["urakaze"]
+            },
+            "isokaze": {
+                "offset": {
+                    "x": -25,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 5,
+                "seasons": ["MPF"],
+                "implicates": []
+            },
+            "isokaze-kai": {
+                "offset": {
+                    "x": -25,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": ["MPF"],
+                "implicates": ["isokaze"]
+            },
+            "isokaze-bkai": {
+                "offset": {
+                    "x": 5,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": -20
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": ["isokaze", "isokaze-kai"]
+            },
+            "hamakaze": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": ["VAL", "YKT"],
+                "implicates": []
+            },
+            "hamakaze-bkai": {
+                "offset": {
+                    "x": 35,
+                    "y": -25
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -90
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": []
+            },
+            "tanikaze": {
+                "offset": {
+                    "x": -40,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": -40,
+                    "y": -20
+                },
+                "rarity": 4,
+                "seasons": ["XMAS"],
+                "implicates": []
+            },
+            "nowaki": {
+                "offset": {
+                    "x": -20,
+                    "y": 20
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": 20
+                },
+                "rarity": 5,
+                "seasons": ["DB"],
                 "implicates": []
             },
             "arashi": {
@@ -1599,19 +1598,33 @@
                 "seasons": [],
                 "implicates": []
             },
-            "oyashio": {
+            "maikaze": {
                 "offset": {
-                    "x": -65,
-                    "y": 15
+                    "x": 0,
+                    "y": 20
                 },
                 "offset2": {
-                    "x": -65,
-                    "y": 15
+                    "x": 0,
+                    "y": 20
                 },
-                "rarity": 5,
+                "rarity": 4,
                 "seasons": [],
                 "implicates": []
+            },
+            "akigumo": {
+                "offset": {
+                    "x": 10,
+                    "y": -70
+                },
+                "offset2": {
+                    "x": -10,
+                    "y": -50
+                },
+                "rarity": 4,
+                "seasons": ["OYA", "AUTCAS", "XMAS", "YE", "NY"],
+                "implicates": []
             }
+            
         },
         "yuugumo": {
             "yuugumo": {
@@ -1624,7 +1637,7 @@
                     "y": 20
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["NY", "SPNG", "HAPPI"],
                 "implicates": []
             },
             "yuugumo-kaini": {
@@ -1638,7 +1651,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["yuugumo"]
             },
             "makigumo": {
                 "offset": {
@@ -1650,7 +1663,7 @@
                     "y": -20
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["NY"],
                 "implicates": []
             },
             "kazagumo": {
@@ -1663,7 +1676,7 @@
                     "y": -5
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["SUM", "SETS", "SG"],
                 "implicates": []
             },
             "naganami": {
@@ -1676,7 +1689,7 @@
                     "y": -10
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["SPNG", "YKT", "SPNG17", "DB", "SPNG18", "RICE"],
                 "implicates": []
             },
             "naganami-kaini": {
@@ -1689,34 +1702,8 @@
                     "y": -20
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
-            },
-            "hayashimo": {
-                "offset": {
-                    "x": 0,
-                    "y": -30
-                },
-                "offset2": {
-                    "x": 0,
-                    "y": -30
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "kiyoshimo": {
-                "offset": {
-                    "x": -30,
-                    "y": -20
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": -20
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB", "SPNG18", "SUMCAS"],
+                "implicates": ["naganami"]
             },
             "takanami": {
                 "offset": {
@@ -1728,9 +1715,9 @@
                     "y": 5
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["RAIN", "VAL"],
                 "implicates": []
-            },
+            }, 
             "takanami-kai": {
                 "offset": {
                     "x": 30,
@@ -1742,9 +1729,48 @@
                 },
                 "rarity": 4,
                 "seasons": [],
+                "implicates": ["takanami"]
+            },
+            "fujinami": {
+                "offset": {
+                    "x": -50,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": ["YKT", "AUTCAS", "DB", "RAIN"],
                 "implicates": []
             },
-            "asashimo": {
+            "hamanami": {
+                "offset": {
+                    "x": -50,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": 0
+                },
+                "rarity": 4,
+                "seasons": ["RAIN"],
+                "implicates": []
+            },
+             "okinami": {
+                "offset": {
+                    "x": -50,
+                    "y": 10
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -30
+                },
+                "rarity": 4,
+                "seasons": ["SUM", "DB"],
+                "implicates": []
+            },
+             "asashimo": {
                 "offset": {
                     "x": 10,
                     "y": 10
@@ -1754,7 +1780,7 @@
                     "y": -45
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["HAPPI", "YKT", "SETS"],
                 "implicates": []
             },
             "asashimo-kai": {
@@ -1768,45 +1794,32 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["asashimo"]
             },
-            "okinami": {
+            "hayashimo": {
                 "offset": {
-                    "x": -50,
-                    "y": 10
-                },
-                "offset2": {
-                    "x": -50,
+                    "x": 0,
                     "y": -30
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "fujinami": {
-                "offset": {
-                    "x": -50,
-                    "y": -10
                 },
                 "offset2": {
                     "x": 0,
-                    "y": 0
+                    "y": -30
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["RAIN", "DB"],
                 "implicates": []
             },
-            "hamanami": {
+            "kiyoshimo": {
                 "offset": {
-                    "x": -50,
-                    "y": 10
+                    "x": -30,
+                    "y": -20
                 },
                 "offset2": {
-                    "x": -50,
-                    "y": 0
+                    "x": -20,
+                    "y": -20
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["RAIN", "SETS", "DB"],
                 "implicates": []
             }
         },
@@ -1821,7 +1834,7 @@
                     "y": 10
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["SUM", "OKT"],
                 "implicates": []
             },
             "z1-zwei": {
@@ -1835,7 +1848,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["z1"]
             },
             "z3": {
                 "offset": {
@@ -1847,7 +1860,7 @@
                     "y": 20
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["SUM"],
                 "implicates": []
             },
             "z3-zwei": {
@@ -1861,7 +1874,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["z3"]
             }
         },
         "akizuki": {
@@ -1875,7 +1888,7 @@
                     "y": -10
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["YKT"],
                 "implicates": []
             },
             "teruzuki": {
@@ -1885,19 +1898,6 @@
                 },
                 "offset2": {
                     "x": -20,
-                    "y": 0
-                },
-                "rarity": 6,
-                "seasons": [],
-                "implicates": []
-            },
-            "hatsuzuki": {
-                "offset": {
-                    "x": -20,
-                    "y": 25
-                },
-                "offset2": {
-                    "x": 30,
                     "y": 0
                 },
                 "rarity": 6,
@@ -1928,6 +1928,19 @@
                 },
                 "rarity": 7,
                 "seasons": [],
+                "implicates": ["suzutsuki"]
+            },
+            "hatsuzuki": {
+                "offset": {
+                    "x": -20,
+                    "y": 25
+                },
+                "offset2": {
+                    "x": 30,
+                    "y": 0
+                },
+                "rarity": 6,
+                "seasons": [],
                 "implicates": []
             }
         },
@@ -1942,7 +1955,7 @@
                     "y": -40
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["HALLO", "SUM", "YKT", "XMAS"],
                 "implicates": []
             }
         },
@@ -1957,6 +1970,32 @@
                     "y": -40
                 },
                 "rarity": 4,
+                "seasons": ["VAL"],
+                "implicates": []
+            },
+            "kamikaze-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": -40
+                },
+                "offset2": {
+                    "x": -50,
+                    "y": -40
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": ["kamikaze"]
+            },
+            "asakaze": {
+                "offset": {
+                    "x": -30,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": -20
+                },
+                "rarity": 4,
                 "seasons": [],
                 "implicates": []
             },
@@ -1967,19 +2006,6 @@
                 },
                 "offset2": {
                     "x": -5,
-                    "y": -20
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "asakaze": {
-                "offset": {
-                    "x": -30,
-                    "y": 0
-                },
-                "offset2": {
-                    "x": -70,
                     "y": -20
                 },
                 "rarity": 4,
@@ -2014,7 +2040,7 @@
             }
         },
         "jclass": {
-            "jervis1": {
+            "jervis": {
                 "offset": {
                     "x": -40,
                     "y": 10
@@ -2038,7 +2064,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["jervis"]
             }
         },
         "tashkent": {
@@ -2081,7 +2107,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["samuelbroberts"]
             }
         }
     },
@@ -2097,7 +2123,7 @@
                     "y": -80
                 },
                 "rarity": 3,
-                "seasons": [],
+                "seasons": ["SUM"],
                 "implicates": []
             },
             "tenryuu-kaini": {
@@ -2111,7 +2137,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["tenryuu"]
             },
             "tatsuta": {
                 "offset": {
@@ -2123,7 +2149,7 @@
                     "y": -110
                 },
                 "rarity": 3,
-                "seasons": [],
+                "seasons": ["SUM"],
                 "implicates": []
             },
             "tatsuta-kaini": {
@@ -2137,7 +2163,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["tatsuta"]
             }
         },
         "kuma": {
@@ -2151,7 +2177,7 @@
                     "y": -30
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["YKT", "XMAS", "VAL"],
                 "implicates": []
             },
             "tama": {
@@ -2164,7 +2190,7 @@
                     "y": -20
                 },
                 "rarity": 2,
-                "seasons": [],
+                "seasons": ["YKT", "MPF", "DB"],
                 "implicates": []
             },
             "tama-kaini": {
@@ -2177,34 +2203,8 @@
                     "y": -35
                 },
                 "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "kiso": {
-                "offset": {
-                    "x": -20,
-                    "y": -10
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": -10
-                },
-                "rarity": 1,
-                "seasons": [],
-                "implicates": []
-            },
-            "kiso-kaini": {
-                "offset": {
-                    "x": 0,
-                    "y": 15
-                },
-                "offset2": {
-                    "x": 0,
-                    "y": 15
-                },
-                "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["tama"]
             },
             "kitakami": {
                 "offset": {
@@ -2283,6 +2283,32 @@
                 "rarity": 7,
                 "seasons": [],
                 "implicates": ["ooi"]
+            },
+            "kiso": {
+                "offset": {
+                    "x": -20,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -10
+                },
+                "rarity": 1,
+                "seasons": [],
+                "implicates": []
+            },
+            "kiso-kaini": {
+                "offset": {
+                    "x": 0,
+                    "y": 15
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": 15
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": ["kiso"]
             }
         },
         "nagara": {
@@ -2310,7 +2336,7 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["nagara"]
             },
             "isuzu": {
                 "offset": {
@@ -2322,7 +2348,7 @@
                     "y": 35
                 },
                 "rarity": 2,
-                "seasons": [],
+                "seasons": ["SUM"],
                 "implicates": []
             },
             "isuzu-kaini": {
@@ -2336,7 +2362,7 @@
                 },
                 "rarity": 5,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["isuzu"]
             },
             "natori": {
                 "offset": {
@@ -2362,7 +2388,7 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["natori"]
             },
             "yura": {
                 "offset": {
@@ -2374,7 +2400,7 @@
                     "y": 30
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["YKT"],
                 "implicates": []
             },
             "yura-kaini": {
@@ -2387,8 +2413,8 @@
                     "y": 0
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["YKT"],
+                "implicates": ["yura"]
             },
             "kinu": {
                 "offset": {
@@ -2413,8 +2439,8 @@
                     "y": 25
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["kinu"]
             },
             "abukuma": {
                 "offset": {
@@ -2439,8 +2465,8 @@
                     "y": 25
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["abukuma"]
             }
         },
         "sendai": {
@@ -2454,7 +2480,7 @@
                     "y": -50
                 },
                 "rarity": 3,
-                "seasons": [],
+                "seasons": ["AUTCAS"],
                 "implicates": []
             },
             "sendai-kaini": {
@@ -2468,7 +2494,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["sendai"]
             },
             "jintsuu": {
                 "offset": {
@@ -2493,8 +2519,8 @@
                     "y": -20
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["YKT"],
+                "implicates": ["jintsuu"]
             },
             "naka": {
                 "offset": {
@@ -2506,7 +2532,7 @@
                     "y": -10
                 },
                 "rarity": 2,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": []
             },
             "naka-kaini": {
@@ -2519,8 +2545,8 @@
                     "y": -30
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["XMAS"],
+                "implicates": ["naka"]
             }
         },
         "yuubari": {
@@ -2534,7 +2560,7 @@
                     "y": 0
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["RAIN"],
                 "implicates": []
             }
         },
@@ -2562,7 +2588,7 @@
                     "y": 50
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["DB"],
                 "implicates": []
             },
             "yahagi": {
@@ -2575,7 +2601,7 @@
                     "y": 50
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["DB"],
                 "implicates": []
             },
             "sakawa": {
@@ -2603,7 +2629,7 @@
                     "y": 40
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["NY", "XMAS", "SUM", "DB"],
                 "implicates": []
             },
             "ooyodo-kai": {
@@ -2616,8 +2642,8 @@
                     "y": 35
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["YKT", "WD", "NY", "XMAS", "SUM", "SUM17", "DB"],
+                "implicates": ["ooyodo"]
             }
         },
         "katori": {
@@ -2631,7 +2657,7 @@
                     "y": -25
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["NY"],
                 "implicates": []
             },
             "kashima": {
@@ -2644,7 +2670,7 @@
                     "y": -30
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["XMAS", "VAL", "SHOP"],
                 "implicates": []
             }
         }
@@ -2661,7 +2687,7 @@
                     "y": 0
                 },
                 "rarity": 3,
-                "seasons": [],
+                "seasons": ["YKT"],
                 "implicates": []
             },
             "furutaka-kaini": {
@@ -2675,7 +2701,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["furutaka"]
             },
             "kako": {
                 "offset": {
@@ -2701,7 +2727,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["kako"]
             }
         },
         "aoba": {
@@ -2728,7 +2754,7 @@
                     "y": 10
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": []
             },
             "kinugasa-kaini": {
@@ -2741,8 +2767,8 @@
                     "y": 40
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["VAL", "XMAS"],
+                "implicates": ["kinugasa"]
             }
         },
         "myoukou": {
@@ -2770,7 +2796,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["myoukou"]
             },
             "nachi": {
                 "offset": {
@@ -2796,33 +2822,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
-            },
-            "haguro": {
-                "offset": {
-                    "x": 0,
-                    "y": 0
-                },
-                "offset2": {
-                    "x": -20,
-                    "y": -10
-                },
-                "rarity": 4,
-                "seasons": [],
-                "implicates": []
-            },
-            "haguro-kaini": {
-                "offset": {
-                    "x": 30,
-                    "y": 45
-                },
-                "offset2": {
-                    "x": 50,
-                    "y": -20
-                },
-                "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "implicates": ["nachi"]
             },
             "ashigara": {
                 "offset": {
@@ -2848,8 +2848,35 @@
                 },
                 "rarity": 6,
                 "seasons": [],
+                "implicates": ["ashigara"]
+            },
+            "haguro": {
+                "offset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "offset2": {
+                    "x": -20,
+                    "y": -10
+                },
+                "rarity": 4,
+                "seasons": [],
                 "implicates": []
+            },
+            "haguro-kaini": {
+                "offset": {
+                    "x": 30,
+                    "y": 45
+                },
+                "offset2": {
+                    "x": 50,
+                    "y": -20
+                },
+                "rarity": 6,
+                "seasons": [],
+                "implicates": ["haguro"]
             }
+            
         },
         "takao": {
             "takao": {
@@ -2902,7 +2929,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["maya"]
             },
             "choukai": {
                 "offset": {
@@ -2928,7 +2955,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["choukai"]
             }
         },
         "tone": {
@@ -2955,8 +2982,8 @@
                     "y": -10
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["XMAS"],
+                "implicates": ["tone"]
             },
             "chikuma": {
                 "offset": {
@@ -2981,8 +3008,8 @@
                     "y": -15
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["XMAS"],
+                "implicates": ["chikuma"]
             }
         },
         "mogami": {
@@ -2996,7 +3023,7 @@
                     "y": -55
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["RAIN", "SUM", "DB"],
                 "implicates": []
             },
             "mogami-kai": {
@@ -3010,7 +3037,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["mogami"]
             },
             "mikuma": {
                 "offset": {
@@ -3022,7 +3049,7 @@
                     "y": -80
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["SUM", "SUM17"],
                 "implicates": []
             },
             "mikuma-kai": {
@@ -3036,7 +3063,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["mikuma"]
             },
             "suzuya": {
                 "offset": {
@@ -3048,7 +3075,7 @@
                     "y": 25
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": []
             },
             "suzuya-kai": {
@@ -3062,7 +3089,7 @@
                 },
                 "rarity": 5,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["suzuya"]
             },
             "suzuya-kaini": {
                 "offset": {
@@ -3074,8 +3101,8 @@
                     "y": -20
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["suzuya"]
             },
             "kumano": {
                 "offset": {
@@ -3087,7 +3114,7 @@
                     "y": 25
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": []
             },
             "kumano-kai": {
@@ -3101,7 +3128,7 @@
                 },
                 "rarity": 5,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["kumano"]
             },
             "kumano-kaini": {
                 "offset": {
@@ -3113,8 +3140,8 @@
                     "y": 20
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["kumano"]
             }
         },
         "admiralhipper": {
@@ -3142,7 +3169,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["prinzeugen"]
             }
         },
         "zara": {
@@ -3156,7 +3183,7 @@
                     "y": -20
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["MPF"],
                 "implicates": []
             },
             "zara-due": {
@@ -3170,7 +3197,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["zara"]
             },
             "pola": {
                 "offset": {
@@ -3199,7 +3226,7 @@
                     "y": 0
                 },
                 "rarity": 7,
-                "seasons": [],
+                "seasons": ["DB"],
                 "implicates": []
             },
             "nagato-kaini": {
@@ -3212,8 +3239,8 @@
                     "y": -20
                 },
                 "rarity": 8,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["nagato"]
             },
             "mutsu": {
                 "offset": {
@@ -3225,10 +3252,8 @@
                     "y": -30
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": [],
-                "full": "Mutsu",
-                "name": "Nagato"
+                "seasons": ["YKT"],
+                "implicates": []
             }
         },
         "kongou": {
@@ -3242,7 +3267,7 @@
                     "y": -50
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["SHOP"],
                 "implicates": []
             },
             "kongou-kaini": {
@@ -3255,8 +3280,8 @@
                     "y": -5
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["SHOP", "DB"],
+                "implicates": ["kongou"]
             },
             "hiei": {
                 "offset": {
@@ -3282,7 +3307,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["hiei"]
             },
             "haruna": {
                 "offset": {
@@ -3307,8 +3332,8 @@
                     "y": 30
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["SUM", "SHOP", "DB"],
+                "implicates": ["haruna"]
             },
             "kirishima": {
                 "offset": {
@@ -3334,7 +3359,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["kirishima"]
             }
         },
         "fusou": {
@@ -3361,8 +3386,8 @@
                     "y": -60
                 },
                 "rarity": 5,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["NY", "SUM", "HAPPI","RAIN", "ZUIUN"],
+                "implicates": ["fusou"]
             },
             "fusou-kaini": {
                 "offset": {
@@ -3374,8 +3399,8 @@
                     "y": -25
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["RAIN"],
+                "implicates": ["fusou"]
             },
             "yamashiro": {
                 "offset": {
@@ -3387,7 +3412,7 @@
                     "y": -20
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["NY", "SUM", "OYA", "ZUIUN"],
                 "implicates": []
             },
             "yamashiro-kai": {
@@ -3401,7 +3426,7 @@
                 },
                 "rarity": 5,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["yamashiro"]
             },
             "yamashiro-kaini": {
                 "offset": {
@@ -3414,7 +3439,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["yamashiro"]
             }
         },
         "ise": {
@@ -3441,8 +3466,8 @@
                     "y": 0
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["ZUIUN", "DB", "ZUIUN18"],
+                "implicates": ["ise"]
             },
             "ise-kaini": {
                 "offset": {
@@ -3453,9 +3478,9 @@
                     "x": 0,
                     "y": -20
                 },
-                "rarity": 8,
+                "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["ise"]
             },
             "hyuuga": {
                 "offset": {
@@ -3480,8 +3505,8 @@
                     "y": 0
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["ZUIUN", "DB"],
+                "implicates": ["hyuuga"]
             }
         },
         "yamato": {
@@ -3495,7 +3520,7 @@
                     "y": 25
                 },
                 "rarity": 7,
-                "seasons": [],
+                "seasons": ["SUM", "NY", "SPNG", "DB"],
                 "implicates": []
             },
             "yamato-kai": {
@@ -3508,8 +3533,8 @@
                     "y": 25
                 },
                 "rarity": 8,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["yamato"]
             },
             "musashi": {
                 "offset": {
@@ -3521,7 +3546,7 @@
                     "y": -45
                 },
                 "rarity": 7,
-                "seasons": [],
+                "seasons": ["DB"],
                 "implicates": []
             },
             "musashi-kai": {
@@ -3534,8 +3559,8 @@
                     "y": -45
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["musashi"]
             },
             "musashi-kaini": {
                 "offset": {
@@ -3548,7 +3573,7 @@
                 },
                 "rarity": 8,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["musashi"]
             }
         },
         "bismarck": {
@@ -3576,9 +3601,9 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["bismarck"]
             },
-            "bismarck3-zwei": {
+            "bismarck-zwei": {
                 "offset": {
                     "x": 140,
                     "y": -70
@@ -3589,7 +3614,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["bismarck"]
             },
             "bismarck-drei": {
                 "offset": {
@@ -3602,7 +3627,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["bismarck", "bismarck-zwei"]
             }
         },
         "vittorioveneto": {
@@ -3616,7 +3641,7 @@
                     "y": 20
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["SUM", "XMAS"],
                 "implicates": []
             },
             "italia": {
@@ -3629,10 +3654,10 @@
                     "y": 20
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["SUM", "XMAS"],
+                "implicates": ["littorio"]
             },
-            "roma1": {
+            "roma": {
                 "offset": {
                     "x": 50,
                     "y": 20
@@ -3642,7 +3667,7 @@
                     "y": -30
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["HALLO", "OYA"],
                 "implicates": []
             },
             "roma-kai": {
@@ -3656,7 +3681,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["roma"]
             }
         },
         "iowa": {
@@ -3670,8 +3695,21 @@
                     "y": 0
                 },
                 "rarity": 7,
-                "seasons": [],
+                "seasons": ["NY"],
                 "implicates": []
+            },
+            "iowa-kai": {
+                "offset": {
+                    "x": 70,
+                    "y": -10
+                },
+                "offset2": {
+                    "x": -70,
+                    "y": 0
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": ["iowa"]
             }
         },
         "queenelizabeth": {
@@ -3685,7 +3723,7 @@
                     "y": -5
                 },
                 "rarity": 7,
-                "seasons": [],
+                "seasons": ["NY"],
                 "implicates": []
             }
         },
@@ -3714,7 +3752,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["gangut"]
             },
             "gangut-dva": {
                 "offset": {
@@ -3727,7 +3765,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["gangut"]
             }
         },
         "richelieu": {
@@ -3741,7 +3779,7 @@
                     "y": -20
                 },
                 "rarity": 7,
-                "seasons": [],
+                "seasons": ["AUTCAS", "NY"],
                 "implicates": []
             }
         }
@@ -3758,7 +3796,7 @@
                     "y": 0
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["OYA"],
                 "implicates": []
             }
         },
@@ -3788,7 +3826,7 @@
                     "y": -40
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["AUTCAS"],
                 "implicates": []
             },
             "souryuu-kaini": {
@@ -3802,7 +3840,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["souryuu"]
             }
         },
         "hiryuu": {
@@ -3830,7 +3868,7 @@
                 },
                 "rarity": 8,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["hiryuu"]
             }
         },
         "shoukaku": {
@@ -3844,7 +3882,7 @@
                     "y": 0
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": [],
                 "full": "Shoukaku",
                 "name": "Shoukaku"
@@ -3860,7 +3898,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["shoukaku"]
             },
             "shoukaku-kainia": {
                 "offset": {
@@ -3873,7 +3911,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["shoukaku", "shoukaku-kaini"]
             },
             "zuikaku": {
                 "offset": {
@@ -3899,7 +3937,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["zuikaku"]
             },
             "zuikaku-kaini": {
                 "offset": {
@@ -3911,8 +3949,8 @@
                     "y": -25
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["zuikaku"]
             },
             "zuikaku-kainia": {
                 "offset": {
@@ -3924,8 +3962,8 @@
                     "y": -25
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["zuikaku", "zuikaku-kaini"]
             }
         },
         "taihou": {
@@ -3953,7 +3991,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["taihou"]
             }
         },
         "unryuu": {
@@ -3981,7 +4019,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["unryuu"]
             },
             "amagi": {
                 "offset": {
@@ -3993,7 +4031,7 @@
                     "y": -30
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["SHOP"],
                 "implicates": []
             },
             "amagi-kai": {
@@ -4007,7 +4045,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["amagi"]
             },
             "katsuragi": {
                 "offset": {
@@ -4033,7 +4071,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["katsuragi"]
             }
         },
         "grafzeppelin": {
@@ -4061,7 +4099,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["grafzeppelin"]
             }
         },
         "aquila": {
@@ -4104,7 +4142,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["saratoga"]
             },
             "saratoga-mkii": {
                 "offset": {
@@ -4117,7 +4155,7 @@
                 },
                 "rarity": 8,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["saratoga"]
             },
             "saratoga-mkii2": {
                 "offset": {
@@ -4130,7 +4168,7 @@
                 },
                 "rarity": 8,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["saratoga", "saratoga-mkii"]
             }
         },
         "essex": {
@@ -4158,7 +4196,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["intrepid"]
             }
         },
         "arkroyal": {
@@ -4189,7 +4227,7 @@
                     "y": -90
                 },
                 "rarity": 3,
-                "seasons": [],
+                "seasons": ["NY"],
                 "implicates": []
             }
         },
@@ -4204,7 +4242,7 @@
                     "y": -10
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": []
             },
             "ryuujou-kai": {
@@ -4218,7 +4256,7 @@
                 },
                 "rarity": 5,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["ryuujou"]
             },
             "ryuujou-kaini": {
                 "offset": {
@@ -4230,8 +4268,8 @@
                     "y": -20
                 },
                 "rarity": 6,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["XMAS", "WD"],
+                "implicates": ["ryuujou"]
             }
         },
         "hiyou": {
@@ -4259,7 +4297,7 @@
                 },
                 "rarity": 5,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["hiyou"]
             },
             "junyou": {
                 "offset": {
@@ -4285,7 +4323,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["junyou"]
             }
         },
         "shouhou": {
@@ -4299,7 +4337,7 @@
                     "y": -30
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["RAIN"],
                 "implicates": []
             },
             "shouhou-kai": {
@@ -4313,7 +4351,7 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["shouhou"]
             },
             "zuihou": {
                 "offset": {
@@ -4325,7 +4363,7 @@
                     "y": 25
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["NY"],
                 "implicates": []
             },
             "zuihou-kai": {
@@ -4338,7 +4376,7 @@
                     "y": 25
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["NY"],
                 "implicates": []
             },
             "zuihou-kaini": {
@@ -4352,7 +4390,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["zuihou"]
             },
             "zuihou-kainib": {
                 "offset": {
@@ -4365,7 +4403,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["zuihou", "zuihou-kaini"]
             }
         },
         "chitose": {
@@ -4380,7 +4418,7 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["chitose"]
             },
             "chitosecvl-kaini": {
                 "offset": {
@@ -4393,7 +4431,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["chitose"]
             },
             "chiyodacvl": {
                 "offset": {
@@ -4406,7 +4444,7 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["chiyoda"]
             },
             "chiyodacvl-kaini": {
                 "offset": {
@@ -4419,7 +4457,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["chiyoda"]
             }
         },
         "ryuuhou": {
@@ -4434,7 +4472,7 @@
                 },
                 "rarity": 5,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["taigei"]
             },
             "ryuuhou-kai": {
                 "offset": {
@@ -4447,7 +4485,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["taigei", "ryuuhou"]
             }
         },
         "mogami": {
@@ -4461,8 +4499,8 @@
                     "y": -20
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["suzuya-kaini", "suzuya"]
             },
             "kumanocvl-kaini": {
                 "offset": {
@@ -4474,8 +4512,8 @@
                     "y": 20
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["DB"],
+                "implicates": ["kumano-kaini", "kumano"]
             }
         },
         "taiyou": {
@@ -4503,7 +4541,7 @@
                 },
                 "rarity": 5,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["kasugamaru"]
             },
             "taiyou-kai": {
                 "offset": {
@@ -4516,7 +4554,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["kasugamaru"]
             },
             "taiyou-kaini": {
                 "offset": {
@@ -4529,7 +4567,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["kasugamaru"]
             }
         },
         "casablanca": {
@@ -4543,7 +4581,7 @@
                     "y": -40
                 },
                 "rarity": 5,
-                "seasons": ["ICE"],
+                "seasons": ["SPNG", "ICE"],
                 "implicates": []
             }
         }
@@ -4633,7 +4671,7 @@
                     "y": -40
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["XMAS"],
                 "implicates": []
             }
         },
@@ -4718,7 +4756,7 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["i13"]
             },
             "i14": {
                 "offset": {
@@ -4744,7 +4782,7 @@
                 },
                 "rarity": 4,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["i14"]
             }
         },
         "marconi": {
@@ -4772,7 +4810,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["luigitorelli"]
             },
             "i504": {
                 "offset": {
@@ -4785,7 +4823,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["luigitorelli"]
             }
         }
     },
@@ -4801,7 +4839,7 @@
                     "y": 10
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["RAIN", "AUT"],
                 "implicates": []
             },
             "chitose-kai": {
@@ -4815,7 +4853,7 @@
                 },
                 "rarity": 3,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["chitose"]
             },
             "chitose-a": {
                 "offset": {
@@ -4828,7 +4866,7 @@
                 },
                 "rarity": 3,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["chitose"]
             },
             "chiyoda": {
                 "offset": {
@@ -4840,7 +4878,7 @@
                     "y": -40
                 },
                 "rarity": 1,
-                "seasons": [],
+                "seasons": ["RAIN", "AUT"],
                 "implicates": []
             },
             "chiyoda-kai": {
@@ -4854,7 +4892,7 @@
                 },
                 "rarity": 3,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["chiyoda"]
             },
             "chiyoda-a": {
                 "offset": {
@@ -4867,7 +4905,7 @@
                 },
                 "rarity": 3,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["chiyoda"]
             }
         },
         "hei": {
@@ -4881,7 +4919,7 @@
                     "y": 35
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["AUT"],
                 "implicates": []
             },
             "akitsumaru-kai": {
@@ -4895,7 +4933,7 @@
                 },
                 "rarity": 6,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["akitsumaru"]
             }
         },
         "akashi": {
@@ -4909,7 +4947,7 @@
                     "y": 10
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["NY","XMAS", "SETS", "TB"],
                 "implicates": []
             },
             "akashi-kai": {
@@ -4922,8 +4960,8 @@
                     "y": 10
                 },
                 "rarity": 7,
-                "seasons": [],
-                "implicates": []
+                "seasons": ["NY","XMAS","SUM", "OYA", "SETS", "TB"],
+                "implicates": ["akashi"]
             }
         },
         "taigei": {
@@ -4937,7 +4975,7 @@
                     "y": 0
                 },
                 "rarity": 4,
-                "seasons": [],
+                "seasons": ["NY", "SUM", "AUT"],
                 "implicates": []
             }
         },
@@ -4952,7 +4990,7 @@
                     "y": -70
                 },
                 "rarity": 7,
-                "seasons": [],
+                "seasons": ["NY"],
                 "implicates": []
             },
             "akitsushima-kai": {
@@ -4966,7 +5004,7 @@
                 },
                 "rarity": 7,
                 "seasons": [],
-                "implicates": []
+                "implicates": ["akitsushima"]
             }
         },
         "mizuho": {
@@ -4980,7 +5018,7 @@
                     "y": 10
                 },
                 "rarity": 5,
-                "seasons": [],
+                "seasons": ["MPF", "HALLO","RAIN", "OYA","HINA","XMAS","SUM","SPNG","SETS", "WD","VAL", "NY"],
                 "implicates": []
             }
         },
@@ -4995,8 +5033,21 @@
                     "y": -5
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["ZUIUN"],
                 "implicates": []
+            },
+            "hayasui-kai": {
+                "offset": {
+                    "x": 0,
+                    "y": 35
+                },
+                "offset2": {
+                    "x": 0,
+                    "y": -5
+                },
+                "rarity": 7,
+                "seasons": [],
+                "implicates": ["hayasui"]
             }
         },
         "commandantteste": {
@@ -5010,7 +5061,7 @@
                     "y": -40
                 },
                 "rarity": 6,
-                "seasons": [],
+                "seasons": ["SETS", "XMAS","SUM", "HINA", "VAL", "ZUIUN"],
                 "implicates": []
             }
         },

@@ -139,28 +139,14 @@ const TabManager = function (loader) {
                     if (ship.seasons.length > 0) {
                         
                     }
+
                     if (ship.implicates.length == 0) {
-                        $("#colleTab [data-name='" + shipClass + "']").append('<img title="' + shipName + '" src="icons/' + shipType + '/' + name + '.png" id="kore' + name + '"></img>').append(extraSpan);
+                        $("#colleTab [data-name='" + shipClass + "']").append('<img title="' + shipName + '" src="icons/' + shipType + '/' + name + '.png" id="kore' + name + '" class="tooltip"></img>').append(extraSpan);
                     }
                     $("#avatars [data-name='" + shipClass + "']").append(newDiv).append(extraSpan);
                 }
             })
         });
-
-
-        for (var e in shipDB) {
-            var shipType = shipDB[e];
-            for (let c in shipType) {
-                let shipClass = shipType[c]
-            }
-            /*if (ship.name) {
-               
-                if ($(".shipList [data-name='" + ship.name + "']").length == 0) {
-                    
-                }
-                
-            }*/
-        }
 
         $("#colleTab .shipClasses").each(function (i) {
             var selectClass = $("<div class='colleAll'><input id='selectAll-" + i + "' type='checkbox'/><label for='selectAll-" + i + "'>" + (lang == "jp" ? "全て選択" : (lang == "cn" || lang == "tw") ? "全選" : "Select All") + "</label></div>");

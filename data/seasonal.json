@@ -1,0 +1,2815 @@
+{
+    "XMAS": {
+        "nagatsuki": {
+            "offset": {
+                "x": -20,
+                "y": -70
+            },
+            "offset2": {
+                "x": 30,
+                "y": -100
+            }
+        },
+        "sagiri": {
+            "offset": {
+                "x": -20,
+                "y": 25
+            },
+            "offset2": {
+                "x": -20,
+                "y": 25
+            }
+        },
+        "sado": {
+            "offset": {
+                "x": -50,
+                "y": -90
+            },
+            "offset2": {
+                "x": -50,
+                "y": -80
+            }
+        },
+        "sazanami": {
+            "offset": {
+                "x": -30,
+                "y": 0
+            },
+            "offset2": {
+                "x": -30,
+                "y": 0
+            }
+        },
+        "libeccio": {
+            "offset": {
+                "x": 0,
+                "y": -30
+            },
+            "offset2": {
+                "x": -25,
+                "y": -80
+            }
+        },
+        "kawakaze": {
+            "offset": {
+                "x": 25,
+                "y": 0
+            },
+            "offset2": {
+                "x": -10,
+                "y": -90
+            }
+        },
+        "shigure": {
+            "offset": {
+                "x": 10,
+                "y": 25
+            },
+            "offset2": {
+                "x": -50,
+                "y": -40
+            }
+        },
+        "arare": {
+            "offset": {
+                "x": -40,
+                "y": 15
+            },
+            "offset2": {
+                "x": -60,
+                "y": 15
+            }
+        },
+        "asagumo": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": 30,
+                "y": 0
+            }
+        },
+        "yamagumo": {
+            "offset": {
+                "x": 0,
+                "y": -30
+            },
+            "offset2": {
+                "x": -100,
+                "y": 0
+            }
+        },
+        "hatsukaze": {
+            "offset": {
+                "x": -50,
+                "y": 0
+            },
+            "offset2": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "tanikaze": {
+            "offset": {
+                "x": -15,
+                "y": -10
+            },
+            "offset2": {
+                "x": -15,
+                "y": -50
+            }
+        },
+        "akigumo": {
+            "offset": {
+                "x": 20,
+                "y": 20
+            },
+            "offset2": {
+                "x": 20,
+                "y": 20
+            }
+        },
+        "kuma": {
+            "offset": {
+                "x": 10,
+                "y": 10
+            },
+            "offset2": {
+                "x": -10,
+                "y": 25
+            }
+        },
+        "naka": {
+            "offset": {
+                "x": 0,
+                "y": -50
+            },
+            "offset2": {
+                "x": -10,
+                "y": -50
+            }
+        },
+        "naka-kaini": {
+            "offset": {
+                "x": -50,
+                "y": -20
+            },
+            "offset2": {
+                "x": -50,
+                "y": -70
+            }
+        },
+        "ooyodo": {
+            "offset": {
+                "x": 5,
+                "y": 30
+            },
+            "offset2": {
+                "x": -35,
+                "y": 40
+            }
+        },
+        "ooyodo-kai": {
+            "offset": {
+                "x": 75,
+                "y": 15
+            },
+            "offset2": {
+                "x": 55,
+                "y": 45
+            }
+        },
+        "kashima": {
+            "offset": {
+                "x": -105,
+                "y": -35
+            },
+            "offset2": {
+                "x": -108,
+                "y": -20
+            }
+        },
+        "kinugasa": {
+            "offset": {
+                "x": 0,
+                "y": 30
+            },
+            "offset2": {
+                "x": 70,
+                "y": 30
+            }
+        },
+        "kinugasa-kaini": {
+            "offset": {
+                "x": 40,
+                "y": 30
+            },
+            "offset2": {
+                "x": 40,
+                "y": 30
+            }
+        },
+        "tone-kaini": {
+            "offset": {
+                "x": -50,
+                "y": 30
+            },
+            "offset2": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "chikuma-kaini": {
+            "offset": {
+                "x": -50,
+                "y": -20
+            },
+            "offset2": {
+                "x": -50,
+                "y": -30
+            }
+        },
+        "suzuya": {
+            "offset": {
+                "x": -40,
+                "y": 30
+            },
+            "offset2": {
+                "x": -40,
+                "y": -20
+            }
+        },
+        "kumano": {
+            "offset": {
+                "x": 0,
+                "y": 30
+            },
+            "offset2": {
+                "x": 0,
+                "y": -20
+            }
+        },
+        "littorio": {
+            "offset": {
+                "x": -50,
+                "y": -35
+            },
+            "offset2": {
+                "x": -40,
+                "y": -20
+            }
+        },
+        "italia": {
+            "offset": {
+                "x": -50,
+                "y": -35
+            },
+            "offset2": {
+                "x": -40,
+                "y": -20
+            }
+        },
+        "shoukaku": {
+            "offset": {
+                "x": -60,
+                "y": 20
+            },
+            "offset2": {
+                "x": -60,
+                "y": -20
+            }
+        },
+        "ryuujou": {
+            "offset": {
+                "x": -55,
+                "y": 40
+            },
+            "offset2": {
+                "x": -60,
+                "y": 40
+            }
+        },
+        "ryuujou-kaini": {
+            "offset": {
+                "x": -50,
+                "y": -30
+            },
+            "offset2": {
+                "x": -20,
+                "y": -70
+            }
+        },
+        "i8": {
+            "offset": {
+                "x": -50,
+                "y": 30
+            },
+            "offset2": {
+                "x": -50,
+                "y": 25
+            }
+        },
+        "maruyu": {
+            "offset": {
+                "x": -30,
+                "y": 10
+            },
+            "offset2": {
+                "x": -30,
+                "y": 5
+            }
+        },
+        "kamoi": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": -50,
+                "y": -30
+            }
+        },
+        "akashi": {
+            "offset": {
+                "x": 50,
+                "y": -20
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        "akashi-kai": {
+            "offset": {
+                "x": 50,
+                "y": 50
+            },
+            "offset2": {
+                "x": 20,
+                "y": 10
+            }
+        },
+        "mizuho": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        "commandantteste": {
+            "offset": {
+                "x": 30,
+                "y": 20
+            },
+            "offset2": {
+                "x": 0,
+                "y": -40
+            }
+        }
+    },
+    "XMAS14": {
+        "sazanami": {
+            "offset": {
+                "x": -30,
+                "y": 0
+            },
+            "offset2": {
+                "x": -30,
+                "y": 0
+            }
+        }
+    },
+    "XMAS15": {
+        "sazanami": {
+            "offset": {
+                "x": -30,
+                "y": 0
+            },
+            "offset2": {
+                "x": -30,
+                "y": 0
+            }
+        }
+    },
+    "HAPPI": {
+        "fubuki": {
+            "offset": {
+                "x": -40,
+                "y": -20
+            },
+            "offset2": {
+                "x": -40,
+                "y": -40
+            }
+        },
+        "fubuki-kaini": {
+            "offset": {
+                "x": -40,
+                "y": -40
+            },
+            "offset2": {
+                "x": -40,
+                "y": -20
+            }
+        },
+        "yuugumo": {
+            "offset": {
+                "x": -50,
+                "y": 0
+            },
+            "offset2": {
+                "x": -50,
+                "y": -5
+            }
+        },
+        "asashimo": {
+            "offset": {
+                "x": -10,
+                "y": 20
+            },
+            "offset2": {
+                "x": -40,
+                "y": -45
+            }
+        },
+        "fusou": {
+            "offset": {
+                "x": -25,
+                "y": -30
+            },
+            "offset2": {
+                "x": -25,
+                "y": 15
+            }
+        }
+    },
+    "RAIN": {
+        "sagiri": {
+            "offset": {
+                "x": -50,
+                "y": 5
+            },
+            "offset2": {
+                "x": -20,
+                "y": -95
+            }
+        },
+        "etorofu": {
+            "offset": {
+                "x": -45,
+                "y": -80
+            },
+            "offset2": {
+                "x": 0,
+                "y": -90
+            }
+        },
+        "fukae": {
+            "offset": {
+                "x": -10,
+                "y": -50
+            },
+            "offset2": {
+                "x": -50,
+                "y": -40
+            }
+        },
+        "akebono": {
+            "offset": {
+                "x": -40,
+                "y": -30
+            },
+            "offset2": {
+                "x": -80,
+                "y": -50
+            }
+        },
+        "sazanami": {
+            "offset": {
+                "x": -40,
+                "y": 30
+            },
+            "offset2": {
+                "x": 50,
+                "y": 30
+            }
+        },
+        "yuudachi-kaini": {
+            "offset": {
+                "x": 25,
+                "y": 5
+            },
+            "offset2": {
+                "x": 20,
+                "y": 10
+            }
+        },
+        "murasame-kai": {
+            "offset": {
+                "x": 0,
+                "y": 20
+            },
+            "offset2": {
+                "x": 50,
+                "y": -100
+            }
+        },
+        "shigure-kaini": {
+            "offset": {
+                "x": 275,
+                "y": 20
+            },
+            "offset2": {
+                "x": 2,
+                "y": -15
+            }
+        },
+        "takanami": {
+            "offset": {
+                "x": -40,
+                "y": -20
+            },
+            "offset2": {
+                "x": 60,
+                "y": 5
+            }
+        },
+        "hayashimo": {
+            "offset": {
+                "x": 0,
+                "y": -15
+            },
+            "offset2": {
+                "x": 90,
+                "y": -5
+            }
+        },
+        "kiyoshimo": {
+            "offset": {
+                "x": -20,
+                "y": -20
+            },
+            "offset2": {
+                "x": -20,
+                "y": -10
+            }
+        },
+        "hamanami": {
+            "offset": {
+                "x": -50,
+                "y": -30
+            },
+            "offset2": {
+                "x": -50,
+                "y": -40
+            }
+        },
+        "fujinami": {
+            "offset": {
+                "x": -80,
+                "y": -10
+            },
+            "offset2": {
+                "x": -60,
+                "y": -10
+            }
+        },
+        "yuubari": {
+            "offset": {
+                "x": -30,
+                "y": 25
+            },
+            "offset2": {
+                "x": -30,
+                "y": 25
+            }
+        },
+        "mogami": {
+            "offset": {
+                "x": -20,
+                "y": -45
+            },
+            "offset2": {
+                "x": -40,
+                "y": -20
+            }
+        },
+        "fusou": {
+            "offset": {
+                "x": 25,
+                "y": -20
+            },
+            "offset2": {
+                "x": 40,
+                "y": 15
+            }
+        },
+        "fusou-kaini": {
+            "offset": {
+                "x": 25,
+                "y": -20
+            },
+            "offset2": {
+                "x": 40,
+                "y": 15
+            }
+        },
+        "shouhou": {
+            "offset": {
+                "x": -50,
+                "y": 0
+            },
+            "offset2": {
+                "x": 0,
+                "y": -15
+            }
+        },
+        "kamoi": {
+            "offset": {
+                "x": 0,
+                "y": -70
+            },
+            "offset2": {
+                "x": 0,
+                "y": -20
+            }
+        },
+        "kamoi-kai": {
+            "offset": {
+                "x": 0,
+                "y": -70
+            },
+            "offset2": {
+                "x": 0,
+                "y": -20
+            }
+        },
+        "kamoi-kaibo": {
+            "offset": {
+                "x": 0,
+                "y": -70
+            },
+            "offset2": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "chitose": {
+            "offset": {
+                "x": 25,
+                "y": 25
+            },
+            "offset2": {
+                "x": 0,
+                "y": 20
+            }
+        },
+        "chiyoda": {
+            "offset": {
+                "x": -50,
+                "y": -35
+            },
+            "offset2": {
+                "x": 0,
+                "y": 20
+            }
+        },
+        "mizuho": {
+            "offset": {
+                "x": 0,
+                "y": -30
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        }
+        
+    },
+    "SUM": {
+        "oboro": {
+            "offset": {
+                "x": -40,
+                "y": 30
+            },
+            "offset2": {
+                "x": -40,
+                "y": -10
+            }
+        },
+        "akebono": {
+            "offset": {
+                "x": 40,
+                "y": 40
+            },
+            "offset2": {
+                "x": 0,
+                "y": -20
+            }
+        },
+        "sazanami": {
+            "offset": {
+                "x": -30,
+                "y": 20
+            },
+            "offset2": {
+                "x": 40,
+                "y": -60
+            }
+        },
+        "ushio": {
+            "offset": {
+                "x": -50,
+                "y": 15
+            },
+            "offset2": {
+                "x": 50,
+                "y": -25
+            }
+        },
+        "ushio-kaini": {
+            "offset": {
+                "x": -50,
+                "y": 15
+            },
+            "offset2": {
+                "x": 0,
+                "y": -95
+            }
+        },
+        "libeccio": {
+            "offset": {
+                "x": -20,
+                "y": 0
+            },
+            "offset2": {
+                "x": -25,
+                "y": -30
+            }
+        },
+        "z1": {
+            "offset": {
+                "x": -40,
+                "y": 30
+            },
+            "offset2": {
+                "x": 35,
+                "y": 35
+            }
+        },
+        "z3": {
+            "offset": {
+                "x": -65,
+                "y": 20
+            },
+            "offset2": {
+                "x": -65,
+                "y": 20
+            }
+        },
+        "shiratsuyu-kai": {
+            "offset": {
+                "x": -50,
+                "y": 0
+            },
+            "offset2": {
+                "x": -50,
+                "y": -50
+            }
+        },
+        "umikaze": {
+            "offset": {
+                "x": -20,
+                "y": 10
+            },
+            "offset2": {
+                "x": 0,
+                "y": -20
+            }
+        },
+        "yuudachi-kaini": {
+            "offset": {
+                "x": 95,
+                "y": -15
+            },
+            "offset2": {
+                "x": 170,
+                "y": -50
+            }
+        },
+        "murasame-kai": {
+            "offset": {
+                "x": 0,
+                "y": 20
+            },
+            "offset2": {
+                "x": -50,
+                "y": -100
+            }
+        },
+        "kazagumo": {
+            "offset": {
+                "x": -85,
+                "y": 20
+            },
+            "offset2": {
+                "x": 0,
+                "y": -20
+            }
+        },
+        "okinami": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": -20,
+                "y": 10
+            }
+        },
+        "tenryuu": {
+            "offset": {
+                "x": 130,
+                "y": 25
+            },
+            "offset2": {
+                "x": 230,
+                "y": 25
+            }
+        },
+        "tatsuta": {
+            "offset": {
+                "x": 45,
+                "y": 25
+            },
+            "offset2": {
+                "x": 45,
+                "y": -25
+            }
+        },
+        "isuzu": {
+            "offset": {
+                "x": 120,
+                "y": 50
+            },
+            "offset2": {
+                "x": 30,
+                "y": 40
+            }
+        },
+        "ooyodo": {
+            "offset": {
+                "x": -5,
+                "y": 50
+            },
+            "offset2": {
+                "x": -35,
+                "y": 40
+            }
+        },
+        "ooyodo-kai": {
+            "offset": {
+                "x": 15,
+                "y": 55
+            },
+            "offset2": {
+                "x": 15,
+                "y": 35
+            }
+        },
+        "mogami": {
+            "offset": {
+                "x": -40,
+                "y": 20
+            },
+            "offset2": {
+                "x": -40,
+                "y": 20
+            }
+        },
+        "mikuma": {
+            "offset": {
+                "x": -50,
+                "y": 25
+            },
+            "offset2": {
+                "x": -50,
+                "y": 25
+            }
+        },
+        "haruna-kaini": {
+            "offset": {
+                "x": 80,
+                "y": 25
+            },
+            "offset2": {
+                "x": 20,
+                "y": 25
+            }
+        },
+        "fusou": {
+            "offset": {
+                "x": 125,
+                "y": 20
+            },
+            "offset2": {
+                "x": 125,
+                "y": -5
+            }
+        },
+        "yamashiro": {
+            "offset": {
+                "x": -125,
+                "y": 35
+            },
+            "offset2": {
+                "x": 15,
+                "y": -35
+            }
+        },
+        "littorio": {
+            "offset": {
+                "x": 220,
+                "y": 45
+            },
+            "offset2": {
+                "x": 240,
+                "y": 45
+            }
+        },
+        "italia": {
+            "offset": {
+                "x": 220,
+                "y": 45
+            },
+            "offset2": {
+                "x": 240,
+                "y": 45
+            }
+        },
+        "ryuuhou": {
+            "offset": {
+                "x": -50,
+                "y": 50
+            },
+            "offset2": {
+                "x": -75,
+                "y": -25
+            }
+        },
+        "akashi-kai": {
+            "offset": {
+                "x": 40,
+                "y": 60
+            },
+            "offset2": {
+                "x": 60,
+                "y": 60
+            }
+        },
+        "taigei": {
+            "offset": {
+                "x": -50,
+                "y": 50
+            },
+            "offset2": {
+                "x": -75,
+                "y": -25
+            }
+        },
+        "commandantteste": {
+            "offset": {
+                "x": 30,
+                "y": 20
+            },
+            "offset2": {
+                "x": 0,
+                "y": -40
+            }
+        }
+    },
+    "SUM16": {
+        "oboro": {
+            "offset": {
+                "x": -40,
+                "y": 30
+            },
+            "offset2": {
+                "x": -40,
+                "y": -10
+            }
+        },
+        "oboro-kai": {
+            "offset": {
+                "x": -40,
+                "y": 30
+            },
+            "offset2": {
+                "x": -40,
+                "y": -10
+            }
+        },
+        "akebono": {
+            "offset": {
+                "x": 10,
+                "y": 40
+            },
+            "offset2": {
+                "x": 0,
+                "y": -20
+            }
+        },
+        "mikuma": {
+            "offset": {
+                "x": 0,
+                "y": -60
+            },
+            "offset2": {
+                "x": -50,
+                "y": -70
+            }
+        }
+    },
+    "SUM17": {
+        "ooyodo-kai": {
+            "offset": {
+                "x": 5,
+                "y": 55
+            },
+            "offset2": {
+                "x": 15,
+                "y": 35
+            }
+        }
+    },
+    "SPNG": {
+        "amagiri": {
+            "offset": {
+                "x": -40,
+                "y": -20
+            },
+            "offset2": {
+                "x": -115,
+                "y": -65
+            }
+        },
+        "harusame-kai": {
+            "offset": {
+                "x": -40,
+                "y": 20
+            },
+            "offset2": {
+                "x": -40,
+                "y": -98
+            }
+        },
+        "naganami": {
+            "offset": {
+                "x": -40,
+                "y": -10
+            },
+            "offset2": {
+                "x": -40,
+                "y": -40
+            }
+        },
+        "yamato": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": -90,
+                "y": -40
+            }
+        },
+        "gambierbay": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": -50,
+                "y": -40
+            }
+         },
+         "mizuho": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    },
+    "SPNG17": {},
+    "SPNG18": {
+        "naganami": {
+            "offset": {
+                "x": -40,
+                "y": -10
+            },
+            "offset2": {
+                "x": -40,
+                "y": -40
+            }
+        },
+        "naganami-kaini": {
+            "offset": {
+                "x": -50,
+                "y": -40
+            },
+            "offset2": {
+                "x": 50,
+                "y": -20
+            }
+        }
+    },
+    "SUMCAS": {
+        "naganami-kaini": {
+            "offset": {
+                "x": -50,
+                "y": -40
+            },
+            "offset2": {
+                "x": 50,
+                "y": -20
+            }
+        }
+    },
+    "YE": {
+        "tsushima": {
+            "offset": {
+                "x": -40,
+                "y": -50
+            },
+            "offset2": {
+                "x": -50,
+                "y": -110
+            }
+        },
+        "akebono": {
+            "offset": {
+                "x": -50,
+                "y": -20
+            },
+            "offset2": {
+                "x": 0,
+                "y": -110
+            }
+        },
+        "akigumo": {
+            "offset": {
+                "x": 20,
+                "y": 20
+            },
+            "offset2": {
+                "x": 20,
+                "y": 20
+            }
+        }
+    },
+    "YE14": {
+        "akebono": {
+            "offset": {
+                "x": -40,
+                "y": 0
+            },
+            "offset2": {
+                "x": 0,
+                "y": -130
+            }
+        }
+    },
+    "NY": {
+        "tsushima": {
+            "offset": {
+                "x": -20,
+                "y": 0
+            },
+            "offset2": {
+                "x": 0,
+                "y": -30
+            }
+        },
+        "ushio": {
+            "offset": {
+                "x": -45,
+                "y": 0
+            },
+            "offset2": {
+                "x": -45,
+                "y": -60
+            }
+        },
+        "ushio-kaini": {
+            "offset": {
+                "x": -90,
+                "y": -9
+            },
+            "offset2": {
+                "x": -45,
+                "y": -60
+            }
+        },
+        "nenohi": {
+            "offset": {
+                "x": -25,
+                "y": 10
+            },
+            "offset2": {
+                "x": -40,
+                "y": 10
+            }
+        },
+        "yamakaze": {
+            "offset": {
+                "x": -40,
+                "y": 5
+            },
+            "offset2": {
+                "x": 0,
+                "y": -70
+            }
+        },
+        "yuudachi-kaini": {
+            "offset": {
+                "x": -5,
+                "y": -150
+            },
+            "offset2": {
+                "x": -30,
+                "y": -35
+            }
+        },
+        "akigumo": {
+            "offset": {
+                "x": 20,
+                "y": 20
+            },
+            "offset2": {
+                "x": 20,
+                "y": 20
+            }
+        },
+        "yuugumo": {
+            "offset": {
+                "x": -80,
+                "y": -25
+            },
+            "offset2": {
+                "x": -80,
+                "y": -10
+            }
+        },
+        "makigumo": {
+            "offset": {
+                "x": -50,
+                "y": -25
+            },
+            "offset2": {
+                "x": -50,
+                "y": -25
+            }
+        },
+        "ooyodo": {
+            "offset": {
+                "x": -5,
+                "y": 30
+            },
+            "offset2": {
+                "x": -35,
+                "y": 40
+            }
+        },
+        "ooyodo-kai": {
+            "offset": {
+                "x": 75,
+                "y": 15
+            },
+            "offset2": {
+                "x": 65,
+                "y": 35
+            }
+        },
+        "katori": {
+            "offset": {
+                "x": -20,
+                "y": 25
+            },
+            "offset2": {
+                "x": 5,
+                "y": -35
+            }
+        },
+        "fusou": {
+            "offset": {
+                "x": 150,
+                "y": 33
+            },
+            "offset2": {
+                "x": 20,
+                "y": -35
+            }
+        },
+        "yamashiro": {
+            "offset": {
+                "x": 65,
+                "y": 25
+            },
+            "offset2": {
+                "x": 15,
+                "y": -25
+            }
+        },
+        "yamato": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "iowa": {
+            "offset": {
+                "x": 0,
+                "y": 40
+            },
+            "offset2": {
+                "x": -10,
+                "y": -10
+            }
+        },
+        "warspite": {
+            "offset": {
+                "x": -20,
+                "y": 20
+            },
+            "offset2": {
+                "x": -30,
+                "y": -25
+            }
+        },
+        "richelieu": {
+            "offset": {
+                "x": 10,
+                "y": 30
+            },
+            "offset2": {
+                "x": 10,
+                "y": 40
+            }
+        },
+        "houshou": {
+            "offset": {
+                "x": -30,
+                "y": 40
+            },
+            "offset2": {
+                "x": -70,
+                "y": -40
+            }
+        },
+        "zuihou": {
+            "offset": {
+                "x": -50,
+                "y": 15
+            },
+            "offset2": {
+                "x": -50,
+                "y": 15
+            }
+        },
+        "amagi": {
+            "offset": {
+                "x": -75,
+                "y": 25
+            },
+            "offset2": {
+                "x": 55,
+                "y": -20
+            }
+        },
+        "i401": {
+            "offset": {
+                "x": -50,
+                "y": 20
+            },
+            "offset2": {
+                "x": -65,
+                "y": 10
+            }
+        },
+        "akashi": {
+            "offset": {
+                "x": 50,
+                "y": -20
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        "akashi-kai": {
+            "offset": {
+                "x": 50,
+                "y": 50
+            },
+            "offset2": {
+                "x": 20,
+                "y": 10
+            }
+        },
+        "taigei": {
+            "offset": {
+                "x": -45,
+                "y": 25
+            },
+            "offset2": {
+                "x": -45,
+                "y": -35
+            }
+        },
+        "akitsushima": {
+            "offset": {
+                "x": 100,
+                "y": -50
+            },
+            "offset2": {
+                "x": 50,
+                "y": -25
+            }
+        },
+        "mizuho": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    },
+    "NY17": {
+        "akitsushima": {
+            "offset": {
+                "x": 100,
+                "y": -50
+            },
+            "offset2": {
+                "x": 50,
+                "y": -25
+            }
+        }
+    },
+    "OKT": {
+        "z1": {
+            "offset": {
+                "x": -40,
+                "y": 20
+            },
+            "offset2": {
+                "x": 35,
+                "y": 25
+            }
+        }
+    },
+    "ZUIUN": {
+        "sado": {
+            "offset": {
+                "x": -40,
+                "y": -40
+            },
+            "offset2": {
+                "x": -40,
+                "y": -30
+            }
+        },
+        "tsushima": {
+            "offset": {
+                "x": -60,
+                "y": 0
+            },
+            "offset2": {
+                "x": -40,
+                "y": -30
+            }
+        },
+        "fusou": {
+            "offset": {
+                "x": -15,
+                "y": 40
+            },
+            "offset2": {
+                "x": -15,
+                "y": 45
+            }
+        },
+        "yamashiro": {
+            "offset": {
+                "x": -40,
+                "y": 35
+            },
+            "offset2": {
+                "x": -10,
+                "y": 30
+            }
+        },
+        "ise-kai": {
+            "offset": {
+                "x": -15,
+                "y": 20
+            },
+            "offset2": {
+                "x": -15,
+                "y": 20
+            }
+        },
+        "hyuuga-kai": {
+            "offset": {
+                "x": -15,
+                "y": 10
+            },
+            "offset2": {
+                "x": -20,
+                "y": 15
+            }
+        },
+        "hayasui": {
+            "offset": {
+                "x": -50,
+                "y": 30
+            },
+            "offset2": {
+                "x": -50,
+                "y": -10
+            }
+        },
+        "commandantteste": {
+            "offset": {
+                "x": 30,
+                "y": 20
+            },
+            "offset2": {
+                "x": 0,
+                "y": -40
+            }
+        }
+    },
+    "ZUIUN18": {
+        "ise-kai": {
+            "offset": {
+                "x": -15,
+                "y": 20
+            },
+            "offset2": {
+                "x": -15,
+                "y": 20
+            }
+        }
+    },
+    "HINA": {
+        "ushio": {
+            "offset": {
+                "x": -70,
+                "y": 15
+            },
+            "offset2": {
+                "x": -25,
+                "y": -35
+            }
+        },
+        "ushio-kaini": {
+            "offset": {
+                "x": -70,
+                "y": 0
+            },
+            "offset2": {
+                "x": -25,
+                "y": -60
+            }
+        },
+        "yamakaze": {
+            "offset": {
+                "x": -40,
+                "y": 5
+            },
+            "offset2": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "mizuho": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        "commandantteste": {
+            "offset": {
+                "x": 30,
+                "y": 20
+            },
+            "offset2": {
+                "x": 0,
+                "y": -40
+            }
+        }
+    },
+    "DB": {
+        "shigure-kaini": {
+            "offset": {
+                "x": 0,
+                "y": 50
+            },
+            "offset2": {
+                "x": -50,
+                "y": 0
+            }
+        },
+        "michishio-kaini": {
+            "offset": {
+                "x": -50,
+                "y": 15
+            },
+            "offset2": {
+                "x": -40,
+                "y": 0
+            }
+        }
+    },
+    "AUT": {
+        "harusame": {
+            "offset": {
+                "x": -40,
+                "y": 40
+            },
+            "offset2": {
+                "x": 10,
+                "y": -80
+            }
+        },
+        "ryuuhou": {
+        "offset": {
+            "x": -50,
+            "y": 40
+        },
+        "offset2": {
+            "x": -25,
+            "y": 30
+        },
+        "rarity": 6,
+        "type": "CVL",
+        "unique": false,
+        "full": "Autumn Ryuuhou",
+        "name": "Ryuuhou"
+        },
+        "chitose": {
+            "offset": {
+                "x": 25,
+                "y": 40
+            },
+            "offset2": {
+                "x": 250,
+                "y": 40
+            }
+        },
+        "chiyoda": {
+            "offset": {
+                "x": 50,
+                "y": 30
+            },
+            "offset2": {
+                "x": 50,
+                "y": 0
+            }
+        },
+        "akitsumaru": {
+            "offset": {
+                "x": 0,
+                "y": 25
+            },
+            "offset2": {
+                "x": -25,
+                "y": 25
+            }
+        },
+        "taigei": {
+            "offset": {
+                "x": -50,
+                "y": 40
+            },
+            "offset2": {
+                "x": -25,
+                "y": 30
+            }
+        }
+    },
+    "AUTCAS": {
+        "amagiri": {
+            "offset": {
+                "x": -70,
+                "y": 10
+            },
+            "offset2": {
+                "x": -25,
+                "y": 15
+            }
+        },
+        "sagiri": {
+            "offset": {
+                "x": -20,
+                "y": 25
+            },
+            "offset2": {
+                "x": -20,
+                "y": 25
+            }
+        },
+        "shiratsuyu": {
+            "offset": {
+                "x": -80,
+                "y": 40
+            },
+            "offset2": {
+                "x": -30,
+                "y": 0
+            }
+        },
+        "shiranui": {
+            "offset": {
+                "x": -80,
+                "y": 30
+            },
+            "offset2": {
+                "x": 0,
+                "y": -10
+            }
+        },
+        "akigumo": {
+            "offset": {
+                "x": 20,
+                "y": 20
+            },
+            "offset2": {
+                "x": 20,
+                "y": 20
+            }
+        },
+        "fujinami": {
+            "offset": {
+                "x": -50,
+                "y": 20
+            },
+            "offset2": {
+                "x": -50,
+                "y": 20
+            }
+        },
+        "sendai": {
+            "offset": {
+                "x": -50,
+                "y": 35
+            },
+            "offset2": {
+                "x": -60,
+                "y": 30
+            }
+        },
+        "richelieu": {
+            "offset": {
+                "x": -40,
+                "y": 25
+            },
+            "offset2": {
+                "x": 10,
+                "y": -30
+            }
+        },
+        "souryuu": {
+            "offset": {
+                "x": -80,
+                "y": 30
+            }
+        }
+    },
+    "L.AUTCAS": {
+        "sagiri": {
+            "offset": {
+                "x": -20,
+                "y": 25
+            },
+            "offset2": {
+                "x": -20,
+                "y": 25
+            }
+        }
+    },
+    "SETS": {
+        "uranami": {
+            "offset": {
+                "x": -60,
+                "y": -30
+            },
+            "offset2": {
+                "x": -60,
+                "y": -30
+            }
+        },
+        "sado": {
+            "offset": {
+                "x": -40,
+                "y": -40
+            },
+            "offset2": {
+                "x": -40,
+                "y": -10
+            }
+        },
+        "kazagumo": {
+            "offset": {
+                "x": -65,
+                "y": 5
+            },
+            "offset2": {
+                "x": -60,
+                "y": 0
+            }
+        },
+        "kiyoshimo": {
+            "offset": {
+                "x": -20,
+                "y": -20
+            },
+            "offset2": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "asashimo": {
+            "offset": {
+                "x": -50,
+                "y": 0
+            },
+            "offset2": {
+                "x": -50,
+                "y": 0
+            }
+        },
+        "akashi": {
+            "offset": {
+                "x": 50,
+                "y": -20
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        "akashi-kai": {
+            "offset": {
+                "x": 50,
+                "y": 50
+            },
+            "offset2": {
+                "x": 20,
+                "y": 10
+            }
+        },
+        "mizuho": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    },
+    "MOB": {
+        "shiratsuyu": {
+            "offset": {
+                "x": -20,
+                "y": 10
+            },
+            "offset2": {
+                "x": 50,
+                "y": -20
+            }
+        }
+    },
+    "SG": {
+        "kazagumo": {
+            "offset": {
+                "x": -55,
+                "y": 25
+            },
+            "offset2": {
+                "x": -30,
+                "y": 25
+            }
+        }
+    },
+    "VAL": {
+        "mutsuki": {
+            "offset": {
+                "x": -70,
+                "y": 30
+            },
+            "offset2": {
+                "x": -70,
+                "y": 30
+            }
+        },
+        "kisaragi": {
+            "offset": {
+                "x": -20,
+                "y": 30
+            },
+            "offset2": {
+                "x": -20,
+                "y": 30
+            }
+        },
+        "yayoi": {
+            "offset": {
+                "x": -50,
+                "y": -20
+            },
+            "offset2": {
+                "x": -40,
+                "y": -30
+            }
+        },
+        "uzuki": {
+            "offset": {
+                "x": -50,
+                "y": -55
+            },
+            "offset2": {
+                "x": -50,
+                "y": -55
+            }
+        },
+        "minazuki": {
+            "offset": {
+                "x": -55,
+                "y": 0
+            },
+            "offset2": {
+                "x": -20,
+                "y": 0
+            }
+        },
+        "murakumo": {
+            "offset": {
+                "x": -10,
+                "y": -35
+            },
+            "offset2": {
+                "x": 0,
+                "y": -80
+            }
+        },
+        "murakumo-kaini": {
+            "offset": {
+                "x": -10,
+                "y": -35
+            },
+            "offset2": {
+                "x": 0,
+                "y": -80
+            }
+        },
+        "oboro": {
+            "offset": {
+                "x": -100,
+                "y": 30
+            },
+            "offset2": {
+                "x": -100,
+                "y": 30
+            }
+        },
+        "akebono": {
+            "offset": {
+                "x": -40,
+                "y": -10
+            },
+            "offset2": {
+                "x": -80,
+                "y": 10
+            }
+        },
+        "harusame": {
+            "offset": {
+                "x": -65,
+                "y": 25
+            },
+            "offset2": {
+                "x": -65,
+                "y": -50
+            }
+        },
+        "shigure-kaini": {
+            "offset": {
+                "x": -10,
+                "y": 20
+            },
+            "offset2": {
+                "x": 0,
+                "y": -25
+            }
+        },
+        "hamakaze": {
+            "offset": {
+                "x": -20,
+                "y": 20
+            },
+            "offset2": {
+                "x": -40,
+                "y": -20
+            }
+        },
+        "takanami": {
+            "offset": {
+                "x": -60,
+                "y": 0
+            },
+            "offset2": {
+                "x": 40,
+                "y": 10
+            }
+        },
+        "kashima": {
+            "offset": {
+                "x": -75,
+                "y": 25
+            },
+            "offset2": {
+                "x": -45,
+                "y": 25
+            }
+        },
+        "kinugasa-kaini": {
+            "offset": {
+                "x": -50,
+                "y": 30
+            },
+            "offset2": {
+                "x": -10,
+                "y": -40
+            }
+        },
+        "commandantteste": {
+            "offset": {
+                "x": 30,
+                "y": 20
+            },
+            "offset2": {
+                "x": 0,
+                "y": -40
+            }
+        }
+    },
+    "WD": {
+        "shigure-kaini": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": 75,
+                "y": 20
+            }
+        },
+        "ooyodo-kai": {
+            "offset": {
+                "x": -55,
+                "y": 45
+            },
+            "offset2": {
+                "x": -100,
+                "y": 45
+            }
+        },
+        "ryuujou-kaini": {
+            "offset": {
+                "x": -30,
+                "y": 15
+            },
+            "offset2": {
+                "x": -50,
+                "y": 0
+            }
+        },
+        "mizuho": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    },
+    "SHOP": {
+        "kashima": {
+            "offset": {
+                "x": -75,
+                "y": 10
+            },
+            "offset2": {
+                "x": -65,
+                "y": 10
+            }
+        },
+        "pola": {
+            "offset": {
+                "x": 0,
+                "y": 40
+            },
+            "offset2": {
+                "x": -50,
+                "y": 0
+            }
+        },
+        "kongou": {
+            "offset": {
+                "x": -70,
+                "y": 50
+            },
+            "offset2": {
+                "x": -30,
+                "y": 40
+            }
+        },
+        "kongou-kaini": {
+            "offset": {
+                "x": -80,
+                "y": 50
+            },
+            "offset2": {
+                "x": -20,
+                "y": -40
+            }
+        },
+        "haruna-kaini": {
+            "offset": {
+                "x": -50,
+                "y": 50
+            },
+            "offset2": {
+                "x": -50,
+                "y": 50
+            }
+        },
+        "amagi": {
+            "offset": {
+                "x": -75,
+                "y": 35
+            },
+            "offset2": {
+                "x": -65,
+                "y": -20
+            }
+        }
+    },
+    "YKT": {
+        "etorofu": {
+            "offset": {
+                "x": -45,
+                "y": -80
+            },
+            "offset2": {
+                "x": -50,
+                "y": -120
+            }
+        },
+        "matsuwa": {
+            "offset": {
+                "x": -40,
+                "y": -90
+            },
+            "offset2": {
+                "x": -50,
+                "y": -110
+            }
+        },
+        "ayanami": {
+            "offset": {
+                "x": -50,
+                "y": -50
+            },
+            "offset2": {
+                "x": -50,
+                "y": -65
+            }
+        },
+        "shikinami": {
+            "offset": {
+                "x": -80,
+                "y": 25
+            },
+            "offset2": {
+                "x": -80,
+                "y": 25
+            }
+        },
+        "oboro": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": -50,
+                "y": -45
+            }
+        },
+        "ikazuchi": {
+            "offset": {
+                "x": -40,
+                "y": -40
+            },
+            "offset2": {
+                "x": -50,
+                "y": -10
+            }
+        },
+        "inazuma": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": -50,
+                "y": 0
+            }
+        },
+        "libeccio": {
+            "offset": {
+                "x": -60,
+                "y": 20
+            },
+            "offset2": {
+                "x": -75,
+                "y": -40
+            }
+        },
+        "akizuki": {
+            "offset": {
+                "x": -30,
+                "y": 20
+            },
+            "offset2": {
+                "x": -30,
+                "y": 20
+            }
+        },
+        "shiratsuyu": {
+            "offset": {
+                "x": -80,
+                "y": 10
+            },
+            "offset2": {
+                "x": -30,
+                "y": -20
+            }
+        },
+        "kawakaze": {
+            "offset": {
+                "x": 70,
+                "y": 30
+            },
+            "offset2": {
+                "x": 50,
+                "y": -90
+            }
+        },
+        "urakaze": {
+            "offset": {
+                "x": -55,
+                "y": 30
+            },
+            "offset2": {
+                "x": -80,
+                "y": 10
+            }
+        },
+        "hamakaze": {
+            "offset": {
+                "x": -45,
+                "y": 35
+            },
+            "offset2": {
+                "x": -70,
+                "y": -30
+            }
+        },
+        "naganami": {
+            "offset": {
+                "x": -60,
+                "y": 30
+            },
+            "offset2": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "asashimo": {
+            "offset": {
+                "x": -40,
+                "y": 10
+            },
+            "offset2": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "fujinami": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": -50,
+                "y": 25
+            }
+        },
+        "kuma": {
+            "offset": {
+                "x": 10,
+                "y": 10
+            },
+            "offset2": {
+                "x": -10,
+                "y": -40
+            }
+        },
+        "tama": {
+            "offset": {
+                "x": 10,
+                "y": 25
+            },
+            "offset2": {
+                "x": 75,
+                "y": 10
+            }
+        },
+        "nagara": {
+            "offset": {
+                "x": -50,
+                "y": -10
+            },
+            "offset2": {
+                "x": -50,
+                "y": -60
+            }
+        },
+        "natori": {
+            "offset": {
+                "x": -70,
+                "y": 40
+            },
+            "offset2": {
+                "x": -40,
+                "y": -20
+            }
+        },
+        "yura": {
+            "offset": {
+                "x": -20,
+                "y": 30
+            },
+            "offset2": {
+                "x": -20,
+                "y": 30
+            }
+        },
+        "yura-kaini": {
+            "offset": {
+                "x": 0,
+                "y": -10
+            },
+            "offset2": {
+                "x": 0,
+                "y": -10
+            }
+        },
+        "jintsuu-kaini": {
+            "offset": {
+                "x": -75,
+                "y": 60
+            },
+            "offset2": {
+                "x": -35,
+                "y": -20
+            }
+        },
+        "ooyodo-kai": {
+            "offset": {
+                "x": -70,
+                "y": 65
+            },
+            "offset2": {
+                "x": 5,
+                "y": 70
+            }
+        },
+        "furutaka": {
+            "offset": {
+                "x": -30,
+                "y": 45
+            },
+            "offset2": {
+                "x": 20,
+                "y": 0
+            }
+        },
+        "mutsu": {
+            "offset": {
+                "x": 25,
+                "y": 40
+            },
+            "offset2": {
+                "x": -55,
+                "y": 40
+            }
+        },
+        "kamoi": {
+            "offset": {
+                "x": 0,
+                "y": 30
+            },
+            "offset2": {
+                "x": 0,
+                "y": -20
+            }
+        }
+    },
+    "OUT": {
+        "yayoi": {
+            "offset": {
+                "x": -60,
+                "y": 10
+            },
+            "offset2": {
+                "x": -20,
+                "y": 10
+            }
+        },
+        "murasame": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": -50,
+                "y": -10
+            }
+        },
+        "murasame-kaini": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": -50,
+                "y": -10
+            }
+        }
+    },
+    "OYA": {
+        "yuudachi-kaini": {
+            "offset": {
+                "x": -55,
+                "y": 5
+            },
+            "offset2": {
+                "x": -80,
+                "y": 0
+            }
+        },
+        "akigumo": {
+            "offset": {
+                "x": -50,
+                "y": 20
+            },
+            "offset2": {
+                "x": 20,
+                "y": 0
+            }
+        },
+        "yamashiro": {
+            "offset": {
+                "x": -110,
+                "y": 20
+            },
+            "offset2": {
+                "x": 30,
+                "y": 25
+            }
+        },
+        "akagi": {
+            "offset": {
+                "x": 10,
+                "y": 30
+            },
+            "offset2": {
+                "x": 10,
+                "y": 30
+            }
+        },
+        "akashi": {
+            "offset": {
+                "x": -50,
+                "y": 50
+            },
+            "offset2": {
+                "x": -50,
+                "y": 50
+            }
+        },
+        "mizuho": {
+            "offset": {
+                "x": -30,
+                "y": 35
+            },
+            "offset2": {
+                "x": -10,
+                "y": -20
+            }
+        }
+    },
+    "MPF": {
+        "uzuki": {
+            "offset": {
+                "x": -50,
+                "y": -5
+            },
+            "offset2": {
+                "x": -50,
+                "y": -35
+            }
+        },
+        "sagiri": {
+            "offset": {
+                "x": -30,
+                "y": 25
+            },
+            "offset2": {
+                "x": 0,
+                "y": 25
+            }
+        },
+        "verniy": {
+            "offset": {
+                "x": -30,
+                "y": 25
+            },
+            "offset2": {
+                "x": -40,
+                "y": -80
+            }
+        },
+        "akebono": {
+            "offset": {
+                "x": -65,
+                "y": -225
+            },
+            "offset2": {
+                "x": -40,
+                "y": -300
+            }
+        },
+        "ushio": {
+            "offset": {
+                "x": -40,
+                "y": 0
+            },
+            "offset2": {
+                "x": -20,
+                "y": -140
+            }
+        },
+        "ushio-kaini": {
+            "offset": {
+                "x": -40,
+                "y": 0
+            },
+            "offset2": {
+                "x": -20,
+                "y": -140
+            }
+        },
+        "murasame": {
+            "offset": {
+                "x": -50,
+                "y": -40
+            },
+            "offset2": {
+                "x": 0,
+                "y": -40
+            }
+        },
+        "isokaze": {
+            "offset": {
+                "x": -75,
+                "y": -75
+            },
+            "offset2": {
+                "x": -70,
+                "y": 30
+            }
+        },
+        "isokaze-kai": {
+            "offset": {
+                "x": -75,
+                "y": -75
+            },
+            "offset2": {
+                "x": -70,
+                "y": 30
+            }
+        },
+        "tama": {
+            "offset": {
+                "x": -25,
+                "y": -35
+            },
+            "offset2": {
+                "x": -15,
+                "y": -25
+            }
+        },
+        "zara": {
+            "offset": {
+                "x": -45,
+                "y": 25
+            },
+            "offset2": {
+                "x": -25,
+                "y": 20
+            }
+        },
+        "ryuuhou": {
+            "offset": {
+                "x": -50,
+                "y": 40
+            },
+            "offset2": {
+                "x": -25,
+                "y": 30
+            }
+        },
+        "mizuho": {
+            "offset": {
+                "x": -45,
+                "y": 30
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    },
+    "HALLO": {
+        "libeccio": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": -35,
+                "y": -15
+            }
+        },
+        "roma": {
+            "offset": {
+                "x": -30,
+                "y": 5
+            },
+            "offset2": {
+                "x": -60,
+                "y": 5
+            }
+        },
+        "mizuho": {
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    },
+    "BS": {},
+    "RICE": {
+        "naganami": {
+            "offset": {
+                "x": -50,
+                "y": 20
+            },
+            "offset2": {
+                "x": -50,
+                "y": -30
+            }
+        }
+    },
+    "ICE": {
+        "etorofu": {
+            "offset": {
+                "x": -50,
+                "y": -100
+            },
+            "offset2": {
+                "x": -50,
+                "y": -100
+            }
+        },
+        "matsuwa": {
+            "offset": {
+                "x": -50,
+                "y": -80
+            },
+            "offset2": {
+                "x": -40,
+                "y": -110
+            }
+        },
+        "gambierbay": {
+            "offset": {
+                "x": -50,
+                "y": 10
+            },
+            "offset2": {
+                "x": -50,
+                "y": -40
+            }
+        }
+    },
+    "NR": {
+        "uranami": {
+            "offset": {
+                "x": -60,
+                "y": 25
+            },
+            "offset2": {
+                "x": -60,
+                "y": 25
+            }
+        }
+    },
+    "SAS": {
+        "oboro": {
+            "offset": {
+                "x": -20,
+                "y": 10
+            },
+            "offset2": {
+                "x": -20,
+                "y": 10
+            }
+        }
+    },
+    "TB": {
+        "akashi": {
+            "offset": {
+                "x": -10,
+                "y": -10
+            },
+            "offset2": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        "akashi-kai": {
+            "offset": {
+                "x": -50,
+                "y": -10
+            },
+            "offset2": {
+                "x": 20,
+                "y": 10
+            }
+        }
+    },
+    "WE2018": {}
+}
